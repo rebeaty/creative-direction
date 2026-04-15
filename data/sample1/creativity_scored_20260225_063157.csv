@@ -1,0 +1,965 @@
+user_id,task,condition,user_response,openai_score,qwen_score,xai_score
+s1_user_001,dpt,solo,"Teach them how to use mental maps (images of familiar places) to ""hang"" images of reminders on.",15,10,10
+s1_user_001,dpt,chat,"Install a highly-efficient, space-saving spiral elevator system that integrates seamlessly into existing staircases.",38,35,42
+s1_user_001,title,chat,Deadbeat Dad bites the dust,20,25,38
+s1_user_001,title,solo,Time to Stop Digging,38,38,42
+s1_user_002,dpt,solo,Make sure people know how they learn best to make learning more fun and engaging.,10,10,10
+s1_user_002,dpt,chat,make a portable robotic-stair climbing wheelchair,35,25,45
+s1_user_002,title,chat,A New Name For A New Legacy,35,32,45
+s1_user_002,title,solo,Fighting Cyclopes: An Eternal Cycle,38,12,15
+s1_user_003,dpt,solo,"I would use flash cards and write down the information on them so the people can review them, keep them on hand and periodiclaly look at them to try to ingrain the information into their heads.",10,10,10
+s1_user_003,dpt,chat,"Invent an exoskeleton suit the person can wear that integrates with smart home tech, that way the person can press a button on their phone and be able to be lifted up the stairs while wearing the suit.",38,38,42
+s1_user_003,title,chat,"Her Name, Her Legacy",30,25,42
+s1_user_003,title,solo,"Two Eyes, Two Despised",32,42,38
+s1_user_004,dpt,solo,"Incorporating educational material in different types of media (film, television, video games, etc)",12,10,10
+s1_user_004,dpt,chat,Implement retractable stair lifts that fold seamlessly into staircase designs when not in use.,30,25,40
+s1_user_004,title,chat,What's in a Name?,20,15,40
+s1_user_004,title,solo,Oversized Amputees,18,10,10
+s1_user_005,title,solo,Cyclopes disable each other during a fight leading to a crater,12,10,10
+s1_user_005,title,chat,Bearing her own proud name,35,32,38
+s1_user_005,dpt,chat,Create a smart stairway system that becomes an escalator,35,42,40
+s1_user_005,dpt,solo,Teach people how to turn things into a song that has a catchy memorable beat and hopefully memorable lyrics. Maybe a rap song.,15,10,10
+s1_user_006,dpt,solo,Use paper or digital flash cards to help people with learning impairments retain information. They could look at the flash cards if they wanted to refresh their memory. Repetition is the best the way to learn information.,10,10,10
+s1_user_006,dpt,chat,Create an exoskeleton that provides stability and force to aid in ascending or descending stairs.,30,25,40
+s1_user_006,title,chat,The Kid Without a Name: Irma's Legacy to Him,24,38,42
+s1_user_006,title,solo,Why the Cyclopes Fight: A Tale of Dominance and Confusion,38,10,10
+s1_user_007,title,solo,Monstrous Titans,18,12,15
+s1_user_007,title,chat,Raking Away the Past,40,42,42
+s1_user_007,dpt,chat,A voice activator that says when to step up on the stairs,15,15,15
+s1_user_007,dpt,solo,"flashcards that are customized to their learning abilities. That could be summarizations, images, symbols/icons, larger text.",10,10,10
+s1_user_008,title,solo,"Two Cyclopes, Too Much Alike, Yet, Too Different",38,12,35
+s1_user_008,title,chat,Legacy of Names and Second Chances,32,22,42
+s1_user_008,dpt,chat,"You could install easily mountable portable stair climbers or ramps with non-slip surfaces for increased grip and safety. If resources are available, automated chair lifts would be helpful.",20,15,25
+s1_user_008,dpt,solo,"One way that could possibly help people with learning impairments retain information could be to have them do word association exercises with items that they are familiar with and use every day. If they need to remember a date, they could use something in the household to associate it with.",10,10,10
+s1_user_009,title,solo,The Eternal Struggle for Equilibrium,32,12,38
+s1_user_009,title,chat,What's in A Name,20,15,40
+s1_user_009,dpt,chat,Creating an auto climbing structure that can adapt to existing staircases and incorporate it into new designs,35,25,38
+s1_user_009,dpt,solo,Find a way to incorporate topics they're personally interested in into pneumonic devices so as to make learning feel more fun and interesting,10,10,10
+s1_user_010,dpt,solo,Create an AI memory bot that is designed to work with people with learning impairments.  the bot retains the memory information and then uses varous techniques such as games with the person to reinforce their own memory learning.,15,10,10
+s1_user_010,dpt,chat,Just install a escalator device in the home in place of the stairs.,15,15,20
+s1_user_010,title,chat,The Unwanted legacy of my name.,24,38,42
+s1_user_010,title,solo,The single vision of two Cyclopes death spiral.,28,12,15
+s1_user_011,dpt,solo,Write things down in a journal. The most important ideas can be in one journal. Information not so important can be in another. The person has to look at the journals constantly especially the important information to keep reminding them. The more they remind themselves the more they retain the information. They keep the journals near them at all times.,10,10,10
+s1_user_011,dpt,chat,To develop a lightweight exoskeleton with stair sensing AI allowing users to climb up and down the stairs.,38,35,42
+s1_user_011,title,chat,The baby should take Irma's last name and start fresh. Why give the baby the last name of someone who is no good?,15,10,10
+s1_user_011,title,solo,The Mysterious Limb MIssing Battles of the Cyclops Crater,18,10,10
+s1_user_012,title,solo,Legless vs. Armless - The Battle of the Cyclopes that shook a crater into the planet.,38,10,10
+s1_user_012,title,chat,Forging futures: Naming a New Destiny,38,32,45
+s1_user_012,dpt,chat,A retractable clamp system that engages with the stair railing as the wheelchairs climb the stairs with gyroscopic stabilization,38,42,42
+s1_user_012,dpt,solo,Give them ways to assist in memorizing things on how to organize on things that they have retain,12,10,10
+s1_user_013,title,solo,Can't Stop The Cyclopes,18,12,42
+s1_user_013,title,chat,The Legacy of Last Names,20,25,42
+s1_user_013,dpt,chat,"Develop a compact, foldable and lightweight stair climbing robotic aide",30,35,42
+s1_user_013,dpt,solo,use flash cards and other visual aids so that they can recall information,10,10,10
+s1_user_014,dpt,solo,"We must create a system that, through something sensory, allows many people to retain information",15,10,10
+s1_user_014,dpt,chat,"Develop a lightweight, portable stair assist device that attaches to handrails and offers motorized support and stabilization as people with mobility impairments ascend or descend",30,25,42
+s1_user_014,title,chat,"yes, this a nice idea may be. This is special, human",10,10,10
+s1_user_014,title,solo,The cyclops and the last battle at the crater,36,10,15
+s1_user_015,dpt,solo,Create a visual aid - a series of flashcards with simple graphics resembling comic strip characters to demonstrate 5 key points from the text.,15,10,10
+s1_user_015,dpt,chat,"Create a realistic, implementable blueprint for a gentle, sloping stair-climbing platform that operates on a track system, providing a smooth, remote-controlled ride up and down stairs for individuals with mobility impairments.",30,15,42
+s1_user_015,title,chat,A Mother-to-Be's Dilemma After a Lost Love,15,12,38
+s1_user_015,title,solo,"Two Eyes, One Fight to the Death",38,12,38
+s1_user_016,title,solo,Fight caused by whom no one knew? Injuries caused by by fight itself.,15,10,15
+s1_user_016,title,chat,The name that reshaped a heritage,38,32,42
+s1_user_016,dpt,chat,"Create a flexible, foldable wheel chair ramp that transforms stairs into a smooth incline, allowing easy navigation for people with mobility impairments.",25,15,38
+s1_user_016,dpt,solo,Effective solution to  help  people with learning impairments retain information is to use multi sensory learning  it will significantly improve memory.,10,10,10
+s1_user_017,dpt,solo,"audio recording of the information which plays every 15 minutes through headphones until they retain info by rote, which is a proven method of learning, if not a very exciting one",15,10,10
+s1_user_017,dpt,chat,Adaptive tread system that converts each step into a mini-life elevating users from one step to the next thru coordinated push and rise mechanism,42,42,42
+s1_user_017,title,chat,Then Name of the Bastard,20,42,45
+s1_user_017,title,solo,Eye Versus Eye,28,12,40
+s1_user_018,title,solo,When Mountains Fight Themselves,44,42,35
+s1_user_018,title,chat,Rakes and Names: The Struggle for Identity,38,28,42
+s1_user_018,dpt,chat,"Install a system of automated stair lifts that use sensors and AI to detect when a person with mobility impairments is approaching, and provide personalized assistance.",30,25,42
+s1_user_018,dpt,solo,An app where you speak or type into it things you need to remember or recall later. It organizes the information into a journal-type page where you can prompt the app to create flashcards or input info into a calendar. Like an AI assistant but with more cross-platform access to be able to manage information and assist with recall and retention.,10,10,10
+s1_user_019,title,solo,"Battle of Cyclopes Crater
+
+Monster Machine",32,10,12
+s1_user_019,title,chat,Heir to Redemption,38,42,42
+s1_user_019,dpt,chat,"AI-powered drones that attach to and carry a smart seating device, lifting users safely and smoothly up the stairs.",45,42,45
+s1_user_019,dpt,solo,Wireless earbuds that record information that can replay audio and information to users when prompted to help the learn and memorize new data.,10,10,10
+s1_user_020,dpt,solo,Hook-up a neurolink connection to your brain and have it remember everything you are taught.,15,10,10
+s1_user_020,dpt,chat,"Have a tarzan rope to swing down stairs.  Going up, have a pulley system with a motor pull you up.",32,42,25
+s1_user_020,title,chat,The Name She Will Carry Forward,32,32,42
+s1_user_020,title,solo,Battle of the Cyclopes!,20,10,15
+s1_user_021,dpt,solo,"Make a wrist-worn device that has just one or two buttons to push, for recording memos and information for easy playback and information retention.",10,10,10
+s1_user_021,dpt,chat,Design a stair sensing robotic wearable exoskeleton that offers support and adapts to movements for stair navigation.,38,35,42
+s1_user_021,title,chat,"Once a tragedy, always a tragedy.",20,15,35
+s1_user_021,title,solo,Two halves of the same rage.,38,42,42
+s1_user_022,title,solo,Unkown Cause,18,12,15
+s1_user_022,title,chat,Taking Her Name,20,15,42
+s1_user_022,dpt,chat,You Can Do It:  How to Navigate Stairs With a Mobility Impairment,15,10,35
+s1_user_022,dpt,solo,Devise a strategy based on what type of learning impairment an individual has. Use trial and error to see what works best for each person.,15,10,10
+s1_user_023,dpt,solo,"A mobile app that learns along with a person, logging information through voice recognition and storing in the form of audio and text for later reference. The user can refer to or make manual changes or additions to all stored information whenever they want, and all of the info can be backed up to the cloud for access anywhere if desired.",15,10,15
+s1_user_023,dpt,chat,A portable railing and motorized seat that can be taken with a person and then deployed and used when needed to assist with climbing stairs wherever. It can be attached to existing handrails and then used to climb manually or with motorized support.,28,35,42
+s1_user_023,title,chat,Naming Hope,32,35,38
+s1_user_023,title,solo,Eye to Eye: A Clash of Two Titans,18,15,38
+s1_user_024,title,solo,Dust in the Eyes of the Cyclopes,44,42,42
+s1_user_024,title,chat,What's In a Name,20,15,40
+s1_user_024,dpt,chat,Add an escalator-like railing to help people up the stairs.,20,15,35
+s1_user_024,dpt,solo,"Create an information reader that translates information into a form more easily learned and assimilated.  For example, a machine to translate text that is readable by dyslexics.",10,10,10
+s1_user_025,dpt,solo,"Create a mobile app that has icons of several domains: basic life skills, arts, sports, finance, politics, technology, health, science, etc. These could be colorful icons that can easily be viewed on the screen and selected. One selected, there would  an option to record a note, view notes, and ask an AI for help. They could refer to these catagories when they want to remmber important info they have 'filed away' (recorded memo, made a note, etc).",10,10,10
+s1_user_025,dpt,chat,An AI training program that helps people learn spatial awareness and confidence for mobility-impaired persons. It would be a Virtual Reality stair-climbing device.,30,15,42
+s1_user_025,title,chat,A Surname's Burden,28,32,42
+s1_user_025,title,solo,The Unintentional Consequences of Misunderstandings,18,12,38
+s1_user_026,title,solo,Cyclopean Death Match (Take I),18,10,15
+s1_user_026,title,chat,Rake And Resolve: A Name Worth Keeping,38,38,42
+s1_user_026,dpt,chat,"Develop a customizable, easy to install stairlift, equipped with smart sensors, and voice-controlled operation, for smooth and seamless navigation.",25,15,40
+s1_user_026,dpt,solo,"Employ mnemonic devices, graphic organizers, and assistive devices to boost recall -- while breaking information into smaller and easier to remember chunks.",10,10,10
+s1_user_027,title,solo,Limbs Of Fury.,28,12,38
+s1_user_027,title,chat,Name That Baby!,18,15,40
+s1_user_027,dpt,chat,Install a robust and retractable stair life that can be easily attached and removed without damaging the existing staircase.,20,25,35
+s1_user_027,dpt,solo,Create an iPhone app that they can download. The app helps them retain information by teaching memory games and storing information that they need.,12,10,10
+s1_user_028,title,solo,A Tale of a Missing Arm & Leg: A Pegged Duel for the Ages,28,10,15
+s1_user_028,title,chat,Breaking the Chains: A Mother's Choice,32,25,42
+s1_user_028,dpt,chat,Design a customizable robot that creates a seat to help those with mobility issues go up and down the stairs.,30,25,42
+s1_user_028,dpt,solo,"The best way to help people with learning impairments retain information is by spending time and finding out what works best for them. Everyone is different, so although not ideal, it is best to spend time with each person individually and develop a carefully crafted plan that is tailored to fit their needs and best set them up to succeed.",10,10,10
+s1_user_029,title,solo,"2 eyes, 2 arms, 2 legs, 2 competitors fighting to the death, unknown cause.",24,12,15
+s1_user_029,title,chat,Naming Games: A Tale of Family and Irma's Kernals,28,15,38
+s1_user_029,dpt,chat,"A smart handrail system with sensors and grips that provide personalized support, as well as steps with customizable points of contact to assist with weight bearing and balance support.",36,35,42
+s1_user_029,dpt,solo,"A new software that learns from the users' input and directions how best to teach them, and then creates lesson plans fully customized and best adept for each user.",10,10,15
+s1_user_030,dpt,solo,"A sample lesson plan
+A teacher's guide
+tools for parents
+A digital version of this system",10,10,10
+s1_user_030,dpt,chat,"A schematic diagram
+A user manual
+A pitch deck
+A manufacturing plan",10,10,10
+s1_user_030,title,chat,"?? The Sins of Surnames
+lrma's Claim",32,42,42
+s1_user_030,title,solo,The Crater of the Unfinished Giants,38,42,42
+s1_user_031,dpt,solo,"Determine what learning impairments are present, and create tools that help with these issues.  For example, if someone struggles with memory, maybe use an app for the person to take notes or generate to-do lists.",12,10,10
+s1_user_031,dpt,chat,"Develop a lightweight, foldable stair climbing mechanism that attaches to mobility aids and wheelchairs.",30,25,42
+s1_user_031,title,chat,Legacy of Love or Lament?,38,38,42
+s1_user_031,title,solo,Cyclopes in the Crater,38,10,15
+s1_user_032,title,solo,Eye for an Eye Stomper versus Puncher,22,12,15
+s1_user_032,title,chat,the loss cash,15,12,15
+s1_user_032,dpt,chat,use a chair lift,15,15,15
+s1_user_032,dpt,solo,have video player repeat information,12,10,10
+s1_user_033,title,solo,Two cyclopes fighting: prove what?,36,10,15
+s1_user_033,title,chat,Irma's misfortune and the naming of her child,15,15,25
+s1_user_033,dpt,chat,construct an indoor elevator controlled by people with mobility impairments,15,15,35
+s1_user_033,dpt,solo,"Create a memory path by an AR app (showing information as pictures/videos), which helps them remember such information",20,15,10
+s1_user_034,title,solo,The Crater Fight,28,12,35
+s1_user_034,title,chat,Inheritance of Names,25,25,42
+s1_user_034,dpt,chat,"Design a compact, foldable electric stair-climbing device that can be integrated with existing architecture.",30,25,42
+s1_user_034,dpt,solo,Design a new way of learning how to retain what you read that is effective for people with learning impairments.,10,10,10
+s1_user_035,dpt,solo,Use visual aids and repetition together. For example turn key information into picture or symbols then review them regularly in short sessions. This makes it easier for people with learning impairments to remember and connect ideas,10,10,10
+s1_user_035,dpt,chat,Have a portable light weight stair system that can hold a good amount of weight and attach to stair cases and be controlled by a wireless remote,28,25,38
+s1_user_035,title,chat,Unraveled strings and a new legacy,42,42,42
+s1_user_035,title,solo,The crater of broken giants,44,42,42
+s1_user_036,title,solo,The Crater of Death - A Cyclops Tale,13,10,10
+s1_user_036,title,chat,Deadbeat Dad on the Run,20,15,35
+s1_user_036,dpt,chat,"Create an innovative ""stairsurfing"" belt with robotics to assist in ascending and descending stairs.",35,35,42
+s1_user_036,dpt,solo,Develop a software program to aid people by repetition in voice and simple typing tasks to help them better retain info.,12,10,10
+s1_user_037,dpt,solo,"Provide them with flashcards that will have terms or items on them, and then the answers on the back.  Depending on the subject there will be different flashcard decks that can be used and they will cover a list of pertinent things for that subject.  Copies of the decks can be provided to the users to keep and refer to.",10,10,10
+s1_user_037,dpt,chat,put a special lift in place that people can sit on to help them get up the stairs. The lift would be on the side of the stairs so as to not impede walkers.,15,15,35
+s1_user_037,title,chat,Me and Baby,15,15,15
+s1_user_037,title,solo,Survival at the Center of the Earth,15,10,15
+s1_user_038,title,solo,The inevitable demise of the Cyclopes species,18,10,10
+s1_user_038,title,chat,"Sweeping the Past Away: A Future With Her Name, Only",44,38,45
+s1_user_038,dpt,chat,"Develop a foldable bridge ramp, that is lightweight, that can be attached to existing staircases but can also be used on its own. This offers smooth and safe inclines with navigation and speed control all on a remote that's easy to navigate.",32,28,42
+s1_user_038,dpt,solo,"Develop a portable digital calendar that is unique to the person with the learning impairment. This device will automatically update with every new task, reminder, project, or important general date that the person needs it to. With only one input needed, the device will automatically keep all the information downloaded so the person never has to input twice. The device is voice activated making it seamless and easier to use and handle.",10,10,10
+s1_user_039,dpt,solo,"Try using visual glues instead of text or verbal instructions. I recall images much clearer and accurate than text. Some issues don't lent themselves to pics, though.",15,10,15
+s1_user_039,dpt,chat,"Try climbing backwards. I.e., sitting down on step to climb and use arms to reach next step. Ditto down.",15,15,15
+s1_user_039,title,chat,Get rid of human pests.,28,10,35
+s1_user_039,title,solo,"An earthquake defeats two Cyclopes. That's it, the title.",15,10,10
+s1_user_040,dpt,solo,"A note-taking platform that helps them write notes on their own timeframe. This platform would be a bit like a learning game, giving them points for reviewing the information and being able to team up with others to further their goals. It would give opportunity for learning outside of reviewing and retaining, and make it more interactive. Think Duolingo, but with your own inputs and prompts.",10,10,10
+s1_user_040,dpt,chat,"Railings on either side of the stairs will provide support in the same way that using crutches might. These would be bigger railings, perhaps with grips to support holding onto the user so they don't have to manage all that weight. It can help bring them down slowly while holding weight on top half instead of legs.",15,15,25
+s1_user_040,title,chat,Our Bonds Chase Us,42,42,38
+s1_user_040,title,solo,Death Battle of the Crater Cyclops,15,10,10
+s1_user_041,dpt,solo,A virtual AI assistant that records classroom teachings and provides a recap to the student later in the day.  It also creates material that will help the person learn that has been modified for their specific disability.,10,10,10
+s1_user_041,dpt,chat,Lightweight stair climbing robotoc exoskeletons that attach to wheelchairs to allow navigation of stair.s,42,35,42
+s1_user_041,title,chat,Legacy of her own making,38,42,42
+s1_user_041,title,solo,Cyclops Battle: Fight of Ego,22,12,35
+s1_user_042,dpt,solo,"Create new online classes which focus on learning information in steps, using short videos or paragraphs to read with immediate follow up questions to test for comprehension, generated by AI.",10,10,10
+s1_user_042,dpt,chat,Adaptive handrails with built in support sensors to aid balance and pacing,25,32,38
+s1_user_042,title,chat,"Rake, name, repeat.",38,42,42
+s1_user_042,title,solo,Clash of the Handy Capable Cyclopes,15,10,15
+s1_user_043,dpt,solo,"Have people summarize and explain the information, role-playing as if they are teaching it to someone else",10,10,10
+s1_user_043,dpt,chat,"Install a modular, retractable ramp system that extends over stairs when it detects a mobility-impaired person",32,35,42
+s1_user_043,title,chat,Naming Little Hope: A Mother's Fight Against Shadows,41,38,42
+s1_user_043,title,solo,The Eternal Battle of Strength: An Extreme Obsession with Winning,15,12,15
+s1_user_044,dpt,solo,"Use a built in recorder on their phone that takes notes, and records to what they are thinking.  The input is by them, such as ""Hey Google, please listen.  The idea is to allow the video to record to capture new idea as well.  Thus, the phone becomes the retain information bank that can be accessed.",10,10,10
+s1_user_044,dpt,chat,"Design a convertable system that can easily switch between modes to accomadete wheel chairs, seated, or lift platform.",30,35,38
+s1_user_044,title,chat,Sins of the Father - Rakes and Redemption,38,38,45
+s1_user_044,title,solo,Two halves don't equate one Cyclope.,44,42,35
+s1_user_045,dpt,solo,Ear buds with AI generative algorithm to listen words. And make a sentence to clearly understand.,10,10,10
+s1_user_045,dpt,chat,Develop a portable rail mounted stairlift system that can be easily installed and removed easily.,20,15,35
+s1_user_045,title,chat,Surname of newborn baby's name,15,10,15
+s1_user_045,title,solo,Fight of Cyclopes for power,28,12,10
+s1_user_046,title,solo,The Battle to be Whole,32,32,42
+s1_user_046,title,chat,Tending the Family Tree: Naming the Next Generation,38,35,45
+s1_user_046,dpt,chat,Robotic Exoskeletal legs to attach to wheelchairs,35,35,42
+s1_user_046,dpt,solo,"Tests to determine learning style and subsequent classes centered around that style. Teach the way they know how to learn, rather than force them to learn the way the teacher knows how to teach.",10,10,10
+s1_user_047,dpt,solo,give each participanty a memory c\hip thast allows them to access thde imformatyion tyhey learned at a later time.  This would be placed on their arm and work with mconnecvting directly to brain waves.Thery could access this aty anytime muntil ity expirtes 3 days after placement.,12,10,10
+s1_user_047,dpt,chat,deelop a portyable stair climbing device with adjkustable seating and a safgety hartnjess to securely take people up and down the stairs,25,15,38
+s1_user_047,title,chat,"Chasingh shadows, a tale of the unwed mother",28,25,38
+s1_user_047,title,solo,Going out on a limb......or losing yours ?,28,42,35
+s1_user_048,title,solo,"Death struggle, arms and legs away",22,12,15
+s1_user_048,title,chat,Legacy of the rake,38,42,42
+s1_user_048,dpt,chat,"Design a pully system that has assistance from a motor, allowing a wheel chair to go up and down stairs that have ramps placed on them.",25,25,38
+s1_user_048,dpt,solo,Outfut a lanyard with an easy to control digital voice recorder on it. Train the individual to record difficult conversations and how to play it back.,10,10,10
+s1_user_049,title,solo,Death On Small Mountains,28,12,35
+s1_user_049,title,chat,The Weight of Relationships,25,25,42
+s1_user_049,dpt,chat,"Create a portable, modular stair attachment that temporarily converts any staircase into an escalator with automated, gently-ascending handrails tailored to user's pace.",42,42,42
+s1_user_049,dpt,solo,"Create a device that filters out information while the person learns, so that the information goes away for review once the person can prove they have learned the information good enough, which makes them not waste time reviewing what they already know, and only reviewing what they don't.",10,10,10
+s1_user_050,title,solo,Short-Sighted Victory,22,32,38
+s1_user_050,title,chat,Inherited Uncertainty,32,32,42
+s1_user_050,dpt,chat,"Modular, foldable ramp system easily deployed and shared within neighborhoods for temporary stair access.",30,38,42
+s1_user_050,dpt,solo,Develop a game that can be played within groups of people or on their own in an app to teach them different techniques to increase their working memory. Then train them to utilize the app daily to increase the strength of the neural pathways involved in using these techniques. Make the app have a dopamine reward system so they participants want to come back and keep working at it.,15,10,10
+s1_user_051,title,solo,Two Damaged Creatures Clash On Final Stomping Grounds,34,42,42
+s1_user_051,title,chat,Irma's Only Choices Are Bad Ones,20,25,38
+s1_user_051,dpt,chat,wall grippers that follow the elevation of the stairs and which can pull or brace,32,35,38
+s1_user_051,dpt,solo,a portable device which is easily accessible to the impaired that is pre-loaded with personal data,20,10,15
+s1_user_052,title,solo,cyclopic destruction,22,12,10
+s1_user_052,title,chat,Rake of redemption,36,42,42
+s1_user_052,dpt,chat,an inflatable stairway that can be compressed to a small foldable device,38,42,38
+s1_user_052,dpt,solo,a bracelet that vibrates every few hours and is connected to a phone app that can go through lessons or reminders. this way they see information repeated periodically and have a physical device helping them,15,10,15
+s1_user_053,dpt,solo,allow people to establish and retain identical or similar schedule making it easier for them to learn and remember,15,10,10
+s1_user_053,dpt,chat,Consider installing innovative stair climbing wheelchair equipped with wide tracks that enable safe clibming,25,25,38
+s1_user_053,title,chat,Rake to teach a man responsibility,28,25,42
+s1_user_053,title,solo,"Armless and legless mountainous struggle
+Balance battle",20,12,15
+s1_user_054,dpt,solo,Use effective concentration techniques developed for those with learning impairments to help retain information.,10,10,10
+s1_user_054,dpt,chat,A retractable stairlift system to help them navigate stairs,20,15,30
+s1_user_054,title,chat,No. A child can take the surname chosen by the mother when the father is absent from their lives,10,10,10
+s1_user_054,title,solo,Battling in Mythology: A Story of Spite and Jealousy,18,12,35
+s1_user_055,dpt,solo,Usage of clear and simple information,12,10,10
+s1_user_055,dpt,chat,Design a modular and lightweight stair-climbing assistive device that can be easily attached to wheelchairs or walkers.,30,25,42
+s1_user_055,title,chat,"The baby should take the father's last name, regardless.",12,10,10
+s1_user_055,title,solo,Battle of the mid.,15,12,35
+s1_user_056,dpt,solo,Personalized learning plans developed with the newest and most effective technology available.,10,10,10
+s1_user_056,dpt,chat,portable lightweight ramps that can be easily deployed over short flights of stairs for convenient accessibility.,15,25,30
+s1_user_056,title,chat,"A New Name, A New Dawn",30,25,42
+s1_user_056,title,solo,The battle of the lost appendages,28,12,15
+s1_user_057,title,solo,war of the half-limbs,28,42,35
+s1_user_057,title,chat,roots of the unnamed,38,42,42
+s1_user_057,dpt,chat,install elevator or a stairlift system,15,10,15
+s1_user_057,dpt,solo,use tDCS to simulate their brain,20,10,10
+s1_user_058,dpt,solo,An online assistive learning app that allows audio note taking and text to speech software.,10,10,10
+s1_user_058,dpt,chat,Stairlifts could help move individuals to move up and down their homes effortlessly. Walking aid are also a common thing to help.,15,10,15
+s1_user_058,title,chat,Irma's Boy,20,15,35
+s1_user_058,title,solo,Dawn of the Metal,18,12,15
+s1_user_059,dpt,solo,"Create as compact box that the person can clip onto them or keep in their pocket. If they are unsure of something, they can seek out the information from the box, kind of like asking Siri.",15,10,15
+s1_user_059,dpt,chat,A lift could be used to lift and also let down the person where stairs are used. Also the use of ramps at the end of the stairs would also be helpful.,15,20,20
+s1_user_059,title,chat,The baby should break the cycle and take Irma's last name. The baby should bot be bound to the deadbeat dad through his last name.,15,10,10
+s1_user_059,title,solo,The Crater of Broken Titans,38,42,42
+s1_user_060,dpt,solo,create a tool and give visual cues remember informtion or some cards to recollect information.,15,10,10
+s1_user_060,dpt,chat,stair climbing device with various settings will be good.,15,15,15
+s1_user_060,title,chat,A name with no legacy,28,38,42
+s1_user_060,title,solo,fight between two cyclopes harming themselves.,20,10,10
+s1_user_061,title,solo,Battle To The Dust,28,38,38
+s1_user_061,title,chat,Tomorrow Never Knows Your Name,44,42,45
+s1_user_061,dpt,chat,Include an elevator that can be controlled via an app or a switch at bottom and top.,20,12,25
+s1_user_061,dpt,solo,"Create an app specifically designed to record, either voice or written text. Include brain training exercises to improve memory.",12,10,10
+s1_user_062,title,solo,A Dual Between Mountains - The Unfortunate Tale of Two Cyclopes,32,10,15
+s1_user_062,title,chat,Irma Joins The Cycle,28,25,38
+s1_user_062,dpt,chat,A portable device that users can carry and attach to existing staircases,30,25,25
+s1_user_062,dpt,solo,Work with people to create a visual representation of the material. Sometimes it's easier to remember pictures than words.,15,10,10
+s1_user_063,dpt,solo,"Use AI to come up with ideas to help people with learning impairments retain information.  Create free classes that can be taken online or in person (community centers, libraries) to help these people retain information.  Recruit volunteers for tutoring.",12,10,10
+s1_user_063,dpt,chat,"Create a smart, retractable stair lift system that senses a user's approach and automatically extends from a hidden compartment in the stair's base.  Build portable stair ramps that can be easily set up and taken apart for use in various locations. Create a stair-climbing robotic exoskeleton.",35,25,42
+s1_user_063,title,chat,Sins of the Fathers,25,42,45
+s1_user_063,title,solo,The Cyclopes War,32,10,15
+s1_user_064,title,solo,The Hidden battle of the Cyclopes,18,12,38
+s1_user_064,title,chat,A Stolen Legacy,28,38,42
+s1_user_064,dpt,chat,Develop a modular retractable stairlift system that would help lift people individuals with impairments.,20,25,35
+s1_user_064,dpt,solo,"A device like cochlear implant that could help send signals to their brains, to improve retention.",15,10,10
+s1_user_065,dpt,solo,Create a catchy song about the information in simple verses and practice daily.,12,10,10
+s1_user_065,dpt,chat,stairs include a system that allows a person's mobility aid (such as a wheelchair) to easily to move as the stairs convert to a ramp or attachment device that hooks on and moves the chair with the press of a button,38,35,40
+s1_user_065,title,chat,The Weight of an Ungiven Name,42,42,45
+s1_user_065,title,solo,Colossal Damage,24,12,38
+s1_user_066,dpt,solo,Create an AI assistant device that uses mirroring techniques and provides aid to the impaired person through verbal and visual interaction.,32,15,25
+s1_user_066,dpt,chat,Invent a compact portable stair-climbing body brace that can be worn by the immobile person.,32,35,42
+s1_user_066,title,chat,Against the grain: Irma's Legacy,36,38,42
+s1_user_066,title,solo,Cyclopes Revenge,22,12,35
+s1_user_067,title,solo,The Echos in the Crater: A question of reason,28,12,38
+s1_user_067,title,chat,The Argument of Last Names,18,15,38
+s1_user_067,dpt,chat,"Rubber tank tracks that would adapt into ""stairs"" that could catch wheelchair wheels and provide a smooth lift.",36,42,42
+s1_user_067,dpt,solo,"I would make a system that helped relate specific information to auditory sounds to help stimulate the brain and bring back recall. If a person was struggling, each action would be related to a sound to help with memory.",20,10,15
+s1_user_068,dpt,solo,Soft wearable device hat lights up when some information coming in (like reacting for something specific). So your hand reminds you through touch about things.,15,10,10
+s1_user_068,dpt,chat,So design a modular lightweight ramp system with automated telescopic extensions for easy retraction/control to fit various dimensions,25,25,42
+s1_user_068,title,chat,"""The name worth carrying""",28,42,42
+s1_user_068,title,solo,"One arm, one leg, one reason""",24,12,15
+s1_user_069,dpt,solo,"I would create personalized memory pathway tool that would turn visualization into small visual scenes the person builds themselves each key point becomes a place where they can visit like a room path o object I am just thinking out loud, I think this will help greatly for people with disability of learning impairment",18,10,10
+s1_user_069,dpt,chat,I would create a light weight stair rail assist that would clip with the stairs and would provide adequate support when a person is going down or up the stairs,20,25,25
+s1_user_069,title,chat,Heritage of HeartBeats.,38,42,42
+s1_user_069,title,solo,Unknown Giants,28,12,38
+s1_user_070,title,solo,The Epic Battle of the Limb-less Cyclopes.,15,10,10
+s1_user_070,title,chat,Chasing Surnames: Irma's Bold Stand,32,25,42
+s1_user_070,dpt,chat,"Design a stair-climbing platform fitted with vulcanized rubber tracks to function like a treadmill, and a bar on the side, which would securely carry individuals to the next floor while they are static.",32,35,42
+s1_user_070,dpt,solo,"Design an app that will record information for the user, that can be played back at set intervals during the day. This will reinforce the information they need which would help them retain it for longer periods.",10,10,10
+s1_user_071,title,solo,Cyclopes at War,32,10,15
+s1_user_071,title,chat,Irma's Fork in the Family Tree,38,42,42
+s1_user_071,dpt,chat,Incline Innovation: Bridging the Step Divide,20,10,35
+s1_user_071,dpt,solo,Learn how to help them retain information by visual or verbal cues,15,10,10
+s1_user_072,title,solo,battle of the cyclopes,18,10,15
+s1_user_072,title,chat,legacy of the raking shadows,38,42,42
+s1_user_072,dpt,chat,"develop an affordable, compact, self stabilizing stair climbing robotic device that can easily attached to wheelchair or scooters",35,35,45
+s1_user_072,dpt,solo,break information into micro chunks,10,10,10
+s1_user_073,dpt,solo,"Phone app with visual aids with words on them that you read out loud, device listens to you speak it and records your voice saying it, plays it back for you afterwards before moving onto next piece of information you are trying to retain. Basically a recording device that also displays image/video with your own voice over, speaking things out loud helps people remember things a little better.",12,10,10
+s1_user_073,dpt,chat,"Convertible stairs already exist, they are stairs that can change into a wheelchair ramp when needed. If there is not enough room then a chair lift that you can attach your wheelchair to",15,15,25
+s1_user_073,title,chat,Carved from the Stigma: A Name's New Beginning,42,42,45
+s1_user_073,title,solo,"Arms vs Legs, The Zero Depth Perception Battle.",18,12,10
+s1_user_074,dpt,solo,"Use a variety of learning media to cater to each individual. For example, some people retain information better by looking at info-graphs, some learn better by verbally repeating what is being taught, and some people learn better by drawing or writing down how they interpret the information. Each individual should be presented with information, given the task to process that information in a variety of different ways, and then tested separately on each subject to figure out which method helps them retain the most amount of information.",10,10,10
+s1_user_074,dpt,chat,"An ADA-approved voice-activated stair-lift requirement in every building with a stairway. So it not only helps people who can't use their legs, but also people with minimal use of their hands/arms. A personal climbing wheelchair wouldn't be accessible to many people due to the price.",25,35,38
+s1_user_074,title,chat,The Burden of a Name.,25,25,42
+s1_user_074,title,solo,Two Eyes Between Them,36,12,38
+s1_user_075,dpt,solo,Come up with different ways of teaching them mixing both pneumonic devices and practical everyday situations while fitting the learning assignments to their individual needs and experiences.,15,10,10
+s1_user_075,dpt,chat,They could use a foldable stair climbing device that they could potentially carry with them to different places.,30,25,35
+s1_user_075,title,chat,Irma's decision of a lifetime,15,15,35
+s1_user_075,title,solo,Eye for an eye: The tale of 2 cyclopes,22,10,15
+s1_user_076,dpt,solo,"Create a personalized ""Memory Bank,"" a piggy bank full of informative notes and reminders. Have this person select multiple notes each day to review, and add more as they think of things they would like to remember or retain.",10,10,10
+s1_user_076,dpt,chat,"Develop portable, foldable or retractable stairlifts and ramp systems, so individuals with mobility impairments can easily adapt.",20,25,35
+s1_user_076,title,chat,A Legacy Unclaimed,35,42,42
+s1_user_076,title,solo,Cyclopocalypse: Down Bad at Rock Bottom,38,10,15
+s1_user_077,dpt,solo,"By reading constantly and practicing as well, making sure to understand things that are being read",10,10,10
+s1_user_077,dpt,chat,"This can be quite a task, this needs lots of attention and understanding",10,10,10
+s1_user_077,title,chat,"This should be a family issue that should be discussed with both families,but this is a decision for the father of the child to make",10,10,10
+s1_user_077,title,solo,They both engaged in this fight to know about who was better in terms of strength,12,10,10
+s1_user_078,title,solo,Cyclopes Death Match,32,10,15
+s1_user_078,title,chat,Deadbeat's Child,15,25,30
+s1_user_078,dpt,chat,Implement a compact mechanized stairlift that extends the length of each step temporarily.,30,35,40
+s1_user_078,dpt,solo,"Give them flash cards with the study material so they can refer to them and study the information later, in order to retain it.",10,10,10
+s1_user_079,dpt,solo,"we could create a software program for laptops, phones, tablets, etc. that can record information via video and sound or via photograph and then the software could consolidate the information and make the information easier for people with learning impairments to understand and remember.",15,10,10
+s1_user_079,dpt,chat,we could create a ramp that is electric that works like a conveyor belt on the side of the stairs. The ramp would have a remote control that allows the conveyor to move up and down the stairs and people could put themselves and their mobility aids on the conveyor in order to safely and quickly move up and down the stairs unassisted. The product could also be small enough to fit on one side of the steps so that they stairs are open to nondisabled people as well.,38,35,42
+s1_user_079,title,chat,"The Weight of a Name: Love, Loss, and My Roots",32,25,45
+s1_user_079,title,solo,"Only the Strongest Survive: A Story of Fight, Grit, and Survival",20,15,42
+s1_user_080,dpt,solo,Using objects to make learning easier,10,10,10
+s1_user_080,dpt,chat,"Design a compact deployable, self-adjusting stair lift",30,25,42
+s1_user_080,title,chat,Unraveled roots and the naming of the new Beginning,38,38,42
+s1_user_080,title,solo,The mighty Shall fall,28,15,38
+s1_user_081,dpt,solo,"I would create programs solely for the purposes of assisting those that have learning impairments. Maybe an app, or a program that you can download on your desktop/laptop.",15,10,10
+s1_user_081,dpt,chat,Use a designed modular attachable robot with exoskeleton arms and legs that can move seamlessly with the wheelchair.,40,42,42
+s1_user_081,title,chat,Choosing Between Shadows and Self,42,42,42
+s1_user_081,title,solo,The Fight of Strength and Power,20,12,35
+s1_user_082,title,solo,Battle of the one eyed giants.,18,10,10
+s1_user_082,title,chat,Naming of the Golden Child,25,15,38
+s1_user_082,dpt,chat,Design an automated foldable stair lift system that would attach to existing staircases and fold away when not in use.,20,25,40
+s1_user_082,dpt,solo,Make the information as visual as possible as people tend to remember those types of information inputs the most.,15,10,10
+s1_user_083,dpt,solo,spend one-on-one time with those people to figure out exactly what works for them to retain information the best and continue to use the tactic that works the best for them. This approach requires time and attention. The only way this can be figured out is if someone qualified takes the time to quantify what works best for a singular person and how to implement a plan that meets their needs most appropriately. This qualified person should be highly curious.,10,10,10
+s1_user_083,dpt,chat,I think the best way to help people with mobility impairments navigate stairs is to invest in quality elevators.,15,15,15
+s1_user_083,title,chat,"I firmly believe that all children should receive their mother's last name. Until a paternity test is conducted, there is no conclusive way to tell exactly who the father of the child is, so it makes most sense to give the baby the mother's last name. Mitochondrial DNA !!!",10,10,10
+s1_user_083,title,solo,"Those Who Fail To Study History Are Doomed To Repeat It - What Came First, The Chicken Or The Egg? (Answer - It Was Always The Egg)",45,10,38
+s1_user_084,dpt,solo,create game apps that improve information retention and also summarize what they have learned during the game as well as a reward system for reinforcement.,10,10,10
+s1_user_084,dpt,chat,robotic stair-climbing exoskeleton that self-adjusts to size of user and can be stored by the stairs.,44,42,45
+s1_user_084,title,chat,Deadbeat Do's and Don'ts,32,25,42
+s1_user_084,title,solo,Clashing of the Cyclopes,22,12,38
+s1_user_085,dpt,solo,"Some sort of wrist computer that can contain information in a quick readable format for someone to access.  Not like an apple watch, more like the bands quarterbacks wear for various plays but for information needed.",15,10,12
+s1_user_085,dpt,chat,A wearable exo skeleton has not been tried before.  The impaired person could slide there legs into something like iron man boots then the exo skeleton forms around them allowing them to easily transcend the stairs.,40,35,42
+s1_user_085,title,chat,A Rose By Any Other Name,30,15,45
+s1_user_085,title,solo,When The Unstoppable Myth Meets the Unmovable Myth,38,12,42
+s1_user_086,title,solo,The battle of Gork and Mork: the Foolish giants,18,10,15
+s1_user_086,title,chat,Rake's legacy: Worthy of the Name,38,42,42
+s1_user_086,dpt,chat,Create an exoskeleton with soft robotics. This is so that they can wear it comfortably and help with movement.,35,25,42
+s1_user_086,dpt,solo,One-on-one coaching and teaching to assist them with learning difficulties.,12,10,10
+s1_user_087,title,solo,The One-Eyed World is Blind.,38,12,38
+s1_user_087,title,chat,Bastard Without a Name,38,42,45
+s1_user_087,dpt,chat,"Affordable collapsible ramp with rail mounted hand grips, with a winch that can assist in going up and down. Motivation for this was affordability and ease of installation.",28,25,42
+s1_user_087,dpt,solo,"A program or app that a person can take a picture, upload the text or situation, AI detects it and finds step-by-step instructions on how to navigate. 
+
+The user then inputs very small prompts as to their understanding of the task with each prompt providing some kind of reward like a trophy or perhaps even a gift card. Basically helping the person break down every single step toward their ultimate goal and providing a small reward for every accomplishment.",28,15,38
+s1_user_088,title,solo,The Battle of the Shattered Mountains,22,12,42
+s1_user_088,title,chat,The name that broke the chain,38,42,45
+s1_user_088,dpt,chat,DEsign smart staircases with built in sensors adn AI to adjust and transform into ramps and platforms to accommodate mobility needs,40,42,42
+s1_user_088,dpt,solo,"Create a multi-sensory learning task that teaches things through music/songs, drawing/painting, movement and combines all three according to what works best for the person to reinforce memory, integrating gamified pneumonic retention methods and repetition through game.",10,10,10
+s1_user_089,title,solo,Battle of the helpless incompetent Cyclopes,28,10,15
+s1_user_089,title,chat,Legacy of a Last Name - Which Path Should the Baby Take?,20,25,42
+s1_user_089,dpt,chat,A carbon fiber stair lift system that has an excellent strength to weight ratio that allows it to effectively take people up the stairs and also be light enough to be portable.,25,25,35
+s1_user_089,dpt,solo,"Create a learning center for people with learning impairments that are categorized by specific impairments. For example there could be one classroom in the center for those with dyslexia, one class for those with ADHD, one class for those with Down syndrome, etc. I would encourage team projects so that people with a learning disability can get support with other people with the same disability.",10,10,10
+s1_user_090,dpt,solo,Tech that lets u repeat and memorize info to be played back and it can be stored to hit the button to recall the info. Repetition it can play the information as a positive affirmation or a mantra to help people with learning impairments recall information. Also pulls from a database with all info memorized.,12,10,10
+s1_user_090,dpt,chat,A stairlift system can help people navigate stairs. It can have a speed configuration on it and be powered electrically. An Exoskeleton for the legs like a mech suits for legs to help said person go up the stairs.,25,25,25
+s1_user_090,title,chat,Irma's Son - A Time of a Lost Father .. Names Carved from Courage is what Chat GPT Said..,18,15,38
+s1_user_090,title,solo,Armless vs Legless - A Cyclops Journey to Doom and Glee,15,10,10
+s1_user_091,dpt,solo,give these people an AI-driven personal assistance that specializes in retaining information. This device ideally should be personalized to the person with learning impairments and can use the most effective way to help these people retain information that is the most relevant to them.,12,10,10
+s1_user_091,dpt,chat,"Develop an adatptive, foldable stair lift system integrated into each step. Automatically senseing a user's presence and gently transforming into a platform to lift them seamlessly to the desired floor.",42,42,42
+s1_user_091,title,chat,Hard decision on choosing baby name by estranged parents,12,12,15
+s1_user_091,title,solo,Giant Cyclopes' epic fight in a crater,15,10,10
+s1_user_092,title,solo,To The Finish We Fight,32,22,38
+s1_user_092,title,chat,A Fresh Legacy: Letting Go to Begin Again,35,25,45
+s1_user_092,dpt,chat,Develop modular robotic stair-climbing modules that can be easily attached to wheelchairs or mobility devices for seamless navigation. Also include small scale escalators and rollers where wheelchairs can roll on as well as people can walk on like in the airport.,38,35,42
+s1_user_092,dpt,solo,"Develop an app that loads information, readily available upon a click. Include pictures, sounds, and music to help make information memorable.",15,10,12
+s1_user_093,title,solo,Two Halves of the Same Whole,28,15,38
+s1_user_093,title,chat,Burden of Legacy,32,38,42
+s1_user_093,dpt,chat,A portable stair lift that attaches to railing and has a battery,20,15,35
+s1_user_093,dpt,solo,"Have a team of writers who can come up with quick stories, poems, or songs that people with learning impairments can memorize to help them retain information. They should be memorable and fun. By having a team of writers collaborating, it should be doable to have affordable options. By making sure this team is human, everything should make sense and will have multiple humans to quality-check before it goes out into the world.",10,10,10
+s1_user_094,title,solo,Die-Clops: The Mountain Trials,15,10,10
+s1_user_094,title,chat,Name Unknown,20,35,35
+s1_user_094,dpt,chat,"A lift on one side of the stairs like a ski lift, but smaller.",20,35,38
+s1_user_094,dpt,solo,an app to record quick notes and repeat them back to you,10,10,10
+s1_user_095,dpt,solo,"Provide multiple kinds of input, such as live captions, written information, and connecting information to something interesting.",15,10,10
+s1_user_095,dpt,chat,Replace stairs with a ramp or elevator. We could also implement a star lift or foldable stairs with sensors.,20,15,25
+s1_user_095,title,chat,Broken Bonds,20,25,38
+s1_user_095,title,solo,Of What Remains,38,42,38
+s1_user_096,dpt,solo,Provide hands on help in retention building,15,10,10
+s1_user_096,dpt,chat,Install smart devices with voice commands to ensure that there is safety,20,15,15
+s1_user_096,title,chat,Chasing Takes and Naming Fates,41,42,42
+s1_user_096,title,solo,"Death to the Clops, a single ""eye""witness",36,10,45
+s1_user_097,dpt,solo,give them a notebook or table with the information to help them remember and review.,12,10,10
+s1_user_097,dpt,chat,Use a robotic exoskeleton for their use up and down stairs safe and effectively.,30,25,35
+s1_user_097,title,chat,Roots of Redeption.,32,42,38
+s1_user_097,title,solo,Titans tighten their grip til death.,22,12,15
+s1_user_098,title,solo,Handicapped Cyclopes Death Match,32,10,15
+s1_user_098,title,chat,Legacy of a Deadbeat:  Irma's dilemma,28,25,42
+s1_user_098,dpt,chat,A motorized wheelchair that can catch the stairs in such a way that it safely and effortlessly climb up or down stairs.  Perhaps a track that will help with the wheel as well.,25,25,35
+s1_user_098,dpt,solo,"An app within a smartphone or its own digital tablet that will flag and record important information that AI will help determine to be kept and organized.  To recall the information, the user will simply ask the AI to recall the critical information.",12,10,12
+s1_user_099,title,solo,The Calculus of Crushing,44,42,42
+s1_user_099,title,chat,The weight of father's name,25,25,42
+s1_user_099,dpt,chat,The Pneumatic Floor lift,35,45,38
+s1_user_099,dpt,solo,The sensory-Feedback.,15,10,10
+s1_user_100,dpt,solo,memorizing by repeating and writing down information,10,10,10
+s1_user_100,dpt,chat,"Design a modular, portable stair-climbing device that can be attached to the wheelchair",30,25,40
+s1_user_100,title,chat,The Unbroken Cycle Of Rejection,32,38,42
+s1_user_100,title,solo,The mountain's fury,28,12,15
+s1_user_101,dpt,solo,Creating songs from familiar settings including friends and family can help with memorization. I believe having relatability to a topic can increase a person's interest in learning. This will make it easier for them to retain information.,10,10,10
+s1_user_101,dpt,chat,It would help with mobile impairments if they could use a high speed elevator lift. Another option is to use an escalator that only disabled people can use. A portable stair climbing wheel chair could help.,15,15,30
+s1_user_101,title,chat,Irma Breaks THe Cycle,35,35,42
+s1_user_101,title,solo,A Tale Of Cyclopes Crater,36,10,15
+s1_user_102,title,solo,Two cyclopes fight to the death,20,10,10
+s1_user_102,title,chat,Rakes and namesL A legacy of choices,36,35,42
+s1_user_102,dpt,chat,Have a lightweight portable stair climbing device that uses technology to maintain stability,30,25,40
+s1_user_102,dpt,solo,plant a chip in their brain that stores all the information,15,10,15
+s1_user_103,dpt,solo,"Use an app that pairs with smart glasses to display the information the need to know either when looking at related objects or as reminders based on times. The glasses can talk to the user is easily understandable language, and the reminders could be simple color based text or symbols.",20,15,38
+s1_user_103,dpt,chat,Design an autonomous robotic staircase that transforms into ramps or escalators.,40,45,45
+s1_user_103,title,chat,Granny Get Your Rake,38,38,42
+s1_user_103,title,solo,Two heads; Two eyes: Two Arms; Two legs; Two Cyclopses Fight,28,10,35
+s1_user_104,title,solo,"When wounded, Titans waged war to remember What was lost",44,12,15
+s1_user_104,title,chat,A surname of Resilience,38,32,45
+s1_user_104,dpt,chat,Develop a retractable stairlift integrated with augmented reality navigation assistance,35,42,42
+s1_user_104,dpt,solo,Collaborative learning,10,10,10
+s1_user_105,title,solo,Limbless: A battle between monsters,36,12,10
+s1_user_105,title,chat,A Heritage of Hope: Choosing a Life Unchained from the Name of my Father,35,38,45
+s1_user_105,dpt,chat,"Decreasing the height of the stairs so they are more shallow and easier to step up onto, or automating them similar to an escalator or lift chair. The stair size is adjustable by mechanical retractable stair tread extensions.",28,25,38
+s1_user_105,dpt,solo,"Developing a simple game that works on memory, and developing associations with something that people enjoy so that they can better remember due to the associations with information within the game. I think designing games with associations to things people love helps encourage them and teaches the associations that can be better retained easily.",15,10,10
+s1_user_106,title,solo,The fist fight challenge.,15,12,10
+s1_user_106,title,chat,Legacy of strength.,25,32,42
+s1_user_106,dpt,chat,Developing a light weight portable climbing device with intuitive controls that can be attached to wheelchairs.,30,25,42
+s1_user_106,dpt,solo,"Giving such people information bit by bit would help them retain such information. Also, using visual aids to visualize information can be effective.",12,10,10
+s1_user_107,dpt,solo,"The best way to assist people with learning impairments is to have someone who has their same type of learning impairment and figure out a solution for them. Sometimes the solution is going to the source where they were able to figure it out for themselves. Trying to figure out the best solution for impairments will many times lead to roadblocks, but finding someone that has their same problem will know the solution.",10,10,10
+s1_user_107,dpt,chat,"Instead of a set chair that is designed to be permanent, have something along the lines of a device that connects an existing wheelchair OR a chair that can be easily open and unopened to go up a flight of stairs.",30,35,35
+s1_user_107,title,chat,A Name Without Sins,38,42,45
+s1_user_107,title,solo,An Impossible Victory,22,32,38
+s1_user_108,dpt,solo,Enroll the learning impaired into special courses that implement new tech in ways that will help them retain information.,10,10,10
+s1_user_108,dpt,chat,Build a system similar to an escalator platform that will help them up and down the stairs.,20,15,30
+s1_user_108,title,chat,A last name to carry,28,35,38
+s1_user_108,title,solo,Fight of the limbless giants.,15,10,10
+s1_user_109,title,solo,Monuments of Wrath.,32,42,42
+s1_user_109,title,chat,"Rakes, Names, and New Beginnings.",38,32,42
+s1_user_109,dpt,chat,Create attachable stair-climbing robotic devices that securely carry individuals up and down stairs with voice-command capabilities for ease of use.,38,35,42
+s1_user_109,dpt,solo,"Use AR enabled cards that show 3D models, animations, or sounds when scanned, making concepts more viable.",20,10,10
+s1_user_110,title,solo,Disfigured Cyclops dualled to the death over one's true love,20,10,15
+s1_user_110,title,chat,A Horrible Legacy Chased Away,28,32,42
+s1_user_110,dpt,chat,Create an exoskeleton suit like a spider that you can wear over your clothing and it synchronizes with a user's movement. This way they can navigate the stairs well.,40,42,42
+s1_user_110,dpt,solo,Install a nano computer chip in the brain that assists in storing information and can be recalled by a single thought.,15,10,15
+s1_user_111,dpt,solo,"An original and effective way to help people with learning impairments retain information would be to implant them with a chip, similar to Nuerolink, that is already pre-loaded with the information they need to remember.",10,10,10
+s1_user_111,dpt,chat,Design a smart stair-climbing robotic assistant that uses sensors to safely accompany and transport people with mobility impairments.,35,35,45
+s1_user_111,title,chat,"""Raking Away the Past: Irma's New Beginning""",38,32,42
+s1_user_111,title,solo,One Eyed Warrior: Limbless Collision,32,10,10
+s1_user_112,title,solo,the Living Mountains of madness.,15,10,15
+s1_user_112,title,chat,"Breaking chains, embracing new beginnings",38,25,42
+s1_user_112,dpt,chat,Install a chairlift with a foldable seat that they can control as they go up or down,15,15,35
+s1_user_112,dpt,solo,"Set up a video system, that they can control. It will repeat information, show how that information is linked to things theyre familiar with. It will be interactive, allowing the user to figure out the knowledge being imparted as they go along. Simple quix points along the way to gage their understanding",12,10,12
+s1_user_113,title,solo,An Eye For An Eye,20,12,35
+s1_user_113,title,chat,Carrying Her Name,28,38,42
+s1_user_113,dpt,chat,Create an adaptive exoskeleton equipped with smart actuators and AI-driven balance support that safely assists users in walking up and down stairs.,35,38,45
+s1_user_113,dpt,solo,Create a mobile game/learning app that goes over information the person struggles with in a fun way that helps them see the information in more than one format. Previous lessons can be saved and re-taken as much as necessary.,10,10,10
+s1_user_114,dpt,solo,They can be provided with a note taking app so that they can have access as and when they want to revise!,10,10,10
+s1_user_114,dpt,chat,Develop a portable lightweight exoskeleton with smart sensors that provides physical support and stability for climbing and navigating stairs.,38,25,42
+s1_user_114,title,chat,A Disappointment Of A Name,28,25,42
+s1_user_114,title,solo,A Combat Like No Other,28,35,38
+s1_user_115,title,solo,When giants fall. limbs lost in legend.,38,12,15
+s1_user_115,title,chat,Breaking the Chain of Names.,35,38,45
+s1_user_115,dpt,chat,Introduce modular stair modules that can mechanically adjust to become a ramp on demand.,35,42,45
+s1_user_115,dpt,solo,Wearable Neurofeedback Devices with Real Time Memory Boosts.,20,10,10
+s1_user_116,dpt,solo,Practice with people in real time.,15,10,10
+s1_user_116,dpt,chat,Design a modular stairlift that can be temporarily installed an staircases and controlled via a smartphone.,25,25,40
+s1_user_116,title,chat,A Legacy Worth Changing.,38,42,42
+s1_user_116,title,solo,Bravery is at the peak.,15,12,15
+s1_user_117,title,solo,The Limbs Of Giants,38,12,42
+s1_user_117,title,chat,Inheritance of an Unnamed future,38,42,42
+s1_user_117,dpt,chat,I think I can develop a stair-climbing wheelchair with integrated sensors,25,25,35
+s1_user_117,dpt,solo,"To create an adaptive memory sculpture, system that turns information into custom stories.",12,10,10
+s1_user_118,dpt,solo,i would say keep repeating and memorizing over and over again as the brain will memorize and keep it in mind,12,10,10
+s1_user_118,dpt,chat,Consider stairs with secure harness,20,15,25
+s1_user_118,title,chat,yes the baby should take Irma's last name,12,10,10
+s1_user_118,title,solo,I feel this is a battle of the strongest where the strong progress,15,12,20
+s1_user_119,title,solo,The cyclopes' fight.,18,10,10
+s1_user_119,title,chat,The Legacy of the name: Irma's Choice,20,25,42
+s1_user_119,dpt,chat,"Consider designing a lightweight, foldable stair-climbing exoskeleton that provides additional support and control to users as they ascend or descend stairs.",35,35,45
+s1_user_119,dpt,solo,Consider learning speed differences within indivioduals. Embrace experimental learning so the learners may gain experience.,10,10,10
+s1_user_120,dpt,solo,"Memorize the information by linking it to your favorite meal or movie, or music.",10,10,10
+s1_user_120,dpt,chat,Develop a feature for wheelchairs that would enable them to climb up the stairs. Such as a robot leg beneath the wheelchair.,35,35,42
+s1_user_120,title,chat,The child born from difficult times.,15,15,30
+s1_user_120,title,solo,"Strength, without the instruments of it.",38,42,42
+s1_user_121,title,solo,Eye for an Eye,15,15,35
+s1_user_121,title,chat,The Bastard's Son,30,42,42
+s1_user_121,dpt,chat,"A foldable exoskelton device, that is easily attachable to help the mobililly impaired naviagate the stairs and allowing independence",40,35,42
+s1_user_121,dpt,solo,Create a system that embraces the impairments of individuals and empowers them in retaining information. This could be a device that records short terms memories or things for easy recall for the user.,15,10,10
+s1_user_122,title,solo,Monstrous Melee in the Mountain,20,10,15
+s1_user_122,title,chat,"Beat it, Bastard!",28,38,42
+s1_user_122,dpt,chat,a coin operated chair style lift,15,15,25
+s1_user_122,dpt,solo,"use a system of:
+1.  Read the material quietly while taking notes
+2.  Re-read out loud
+3.  Attempt to retell the story to oneself or a helper.
+4.  Reread again for clarification.",10,10,10
+s1_user_123,title,solo,Fatal one-eyed attraction,18,12,35
+s1_user_123,title,chat,Chasing Names and Legacies.,32,32,42
+s1_user_123,dpt,chat,A smart walker that can help navigate stairs by use of integrated sensors.,28,25,35
+s1_user_123,dpt,solo,"A note-taking app on smart watches that allows the user to easily ""take notes"" by speaking. This will help remind the person later.",12,10,10
+s1_user_124,title,solo,The clash of giants,20,12,15
+s1_user_124,title,chat,name of the father,20,12,15
+s1_user_124,dpt,chat,"By developing a smart, adaptable fold-out stairlift that can be used on the escalator.",28,12,35
+s1_user_124,dpt,solo,Create more learning institutions regardless of the age. Reduce fee to learn in the instituions.,10,10,10
+s1_user_125,dpt,solo,Create a repetitive stimulus that appeals to their visual or auditory senses. easy to translate or memorize symbols. Maybe a game with rewards based incentives,20,12,15
+s1_user_125,dpt,chat,Add loops to guard rails on stairs,20,15,25
+s1_user_125,title,chat,The Ghosts in the Memories,28,32,42
+s1_user_125,title,solo,Titan Force: Clash of Ages,12,10,10
+s1_user_126,title,solo,Tug of war,20,25,38
+s1_user_126,title,chat,Alegacy of empty promises,28,42,42
+s1_user_126,dpt,chat,ill develop a foldable stair climbing device to attatch to wheelchairs to be able to navigate stairs safely,30,25,38
+s1_user_126,dpt,solo,by using visual picture aids thst represents concepts that need remembering,12,10,10
+s1_user_127,title,solo,One-eyed Conflict,22,15,15
+s1_user_127,title,chat,Legacy of the Empty Name,38,42,42
+s1_user_127,dpt,chat,"Create a modular, foldable track system that attaches to staircases, transforming them into a gentle, inclined ramp to accommodate both feet and wheelchairs.",38,35,42
+s1_user_127,dpt,solo,"A notetaking app that can organize notes based on the user's preferences and adapt to their needs, uses both text and voice input, and creates flashcards for memorization.",10,10,10
+s1_user_128,title,solo,Death From a Misunderstanding,15,12,35
+s1_user_128,title,chat,A Bastard's Child: The Dilemma of Naming a Baby With an Absent Father,22,25,42
+s1_user_128,dpt,chat,Place a retractable stairlift that is attached to existing stairs. Use a smart app system to automatically adjust speed and safty features based on the user' specific mobility needs.,30,25,42
+s1_user_128,dpt,solo,"Create a computer system that addresses challenges faced by people with different learning impairments. Depending on the learning impairment, the computer system will give the user assistance in various areas, like extra word support for those with dyslexia or executive function tips for those who have ADHD.",10,10,10
+s1_user_129,title,solo,Battle of death between two cyclopes.,15,10,10
+s1_user_129,title,chat,A legacy,20,25,35
+s1_user_129,dpt,chat,By implementing a stair lift for safety travel up and down.,15,15,15
+s1_user_129,dpt,solo,creating an extra learning environment by repeating what has been taught severally.,10,10,10
+s1_user_130,dpt,solo,Create a memory anchor device that creates personalized association between new information,10,10,10
+s1_user_130,dpt,chat,"Install a modular, foldable ramp system with touch- sensitive, guided railings that provide real-time navigation assistance through haptic feedback.",36,42,45
+s1_user_130,title,chat,Legacy of the Last Name,28,35,42
+s1_user_130,title,solo,Monstrous Remains,32,42,42
+s1_user_131,title,solo,The One-Eyed War,32,12,35
+s1_user_131,title,chat,What's in a Name?,20,15,40
+s1_user_131,dpt,chat,create a portable stair climbing device that has motorized steps,30,25,42
+s1_user_131,dpt,solo,create a customized shorthand for people to retain information based on their own needs,10,10,10
+s1_user_132,title,solo,the unexpected fight of giants,28,12,15
+s1_user_132,title,chat,unwanted son by the unwanted,18,42,42
+s1_user_132,dpt,chat,modular elevator instaled on existing staircase,20,25,38
+s1_user_132,dpt,solo,suggesting them to participate CBT programe to improve their cognitive function,12,10,10
+s1_user_133,dpt,solo,A personalized AI assistant that converts learning materials int multi sensory experiences based on user specific impairment profile,15,10,10
+s1_user_133,dpt,chat,"Develop a lightweight, retractable and portable robotic exoskeleton specifically for stair navigation.",38,35,45
+s1_user_133,title,chat,Legacy of Rakes and Regret.,44,42,45
+s1_user_133,title,solo,The Colossal Proof of The Crater.,22,42,10
+s1_user_134,dpt,solo,Create an app that uses the reddit pages that ELI5,15,10,10
+s1_user_134,dpt,chat,Make a robo-exoskeleton with a camera an AI computer vision that can anticipate future movements,38,38,42
+s1_user_134,title,chat,A legacy defended by love's wrath,38,42,42
+s1_user_134,title,solo,Broken Cyclopes the size of Mountains duel for Fun and Giggles,22,10,15
+s1_user_135,title,solo,A prompt of two cyclopes fighting to death in a brutal fight.,10,10,10
+s1_user_135,title,chat,rake it refers to a deadbeat father while shadow suggests impact of actions and uncertainty surrounding the baby's future. rakes and retribution,28,38,42
+s1_user_135,dpt,chat,"Develop a modular chairlift system that seamlessly integrates with existing stair rails,allowing user's to attach their own adaptable seat unit.",28,25,42
+s1_user_135,dpt,solo,By providing them with more access to information  and assistants to help interpret for better understanding.,12,10,15
+s1_user_136,title,solo,The Conflicted Mountains,24,12,38
+s1_user_136,title,chat,The Nameless Child,20,35,42
+s1_user_136,dpt,chat,A device that fits into stairs with stability and comfort well put into consideration.,15,15,15
+s1_user_136,dpt,solo,Break topics into smaller portions that are easy to learn and make learning fun by using incentives and game-like sessions.,10,10,10
+s1_user_137,dpt,solo,Creative a solution help people,10,10,10
+s1_user_137,dpt,chat,"Create a universal, portable stair lift system that integrates with smartphone apps for personalized control, enabling safe and independent navigation of stairs for individuals with mobility impairments.",35,25,42
+s1_user_137,title,chat,The Alimony of a name,38,38,42
+s1_user_137,title,solo,The cracks of calculus,38,42,15
+s1_user_138,dpt,solo,"I would try using an association. For instance, to retain names or places, associate a color or adjective. To remember Bob, and you know bob plays a lot of golf, associate ""golf"" with Bob.",10,10,10
+s1_user_138,dpt,chat,"The best method would be to install a lift assist system that could move the person up and down the stairs. Alternatively, a signage-based system or tactile feedback system could assist if cost was an issue",20,15,30
+s1_user_138,title,chat,The transparency of Irma,24,12,35
+s1_user_138,title,solo,The Collision of Desperation,28,32,42
+s1_user_139,dpt,solo,"Create flash cards with scents that are connected with their life. It could be air freshener fragrance used at home, cooking favorite meal scent, pet scent, partners shampoo, etc.",10,10,10
+s1_user_139,dpt,chat,I would install modular stair climbing aids similar to what is used on dolly.,25,25,35
+s1_user_139,title,chat,A Rose is Still a Rose,35,12,42
+s1_user_139,title,solo,The Kong Competitions,28,10,15
+s1_user_140,title,solo,"Titans Broken, Yet Unbroken",36,38,42
+s1_user_140,title,chat,A name Untethered to Shadows,44,42,45
+s1_user_140,dpt,chat,"Develop a portable, compact, and motorized stair-assist device that temporarily attaches to existing stairs and securely elevates users effortlessly to the next level.",35,25,42
+s1_user_140,dpt,solo,"Create small, customizable learning stations that combine visual, auditory, and tactile stimuli tailored to each learner's preferences and needs. These hubs use AI to monitor progress in real time and adjust teaching methods, such as adding interactive touchscreens, immersive audio cues, and physical manipulatives, to reinforce memory through multiple sensory channels, making retention easier and more engaging.",10,10,10
+s1_user_141,title,solo,The battle between two Disables,15,12,15
+s1_user_141,title,chat,Chasing shadows: A Name unclaimed,38,42,42
+s1_user_141,dpt,chat,Create a stairlift system that is inclined where there is no obstruction pathways to make mobility easy.,15,15,25
+s1_user_141,dpt,solo,They would have access  to recording of every classes they attend or not.. so they can go back to it when they need help and it can easily be access.,10,10,10
+s1_user_142,dpt,solo,By repeating the same thing several times,10,10,10
+s1_user_142,dpt,chat,providing affordable stair-climbing device,20,15,30
+s1_user_142,title,chat,A dead beat father,15,12,15
+s1_user_142,title,solo,Two Cyclopes injured fighting each other to prove who was stronger.,20,10,10
+s1_user_143,dpt,solo,motivation and engagement,10,10,10
+s1_user_143,dpt,chat,install bending lifts,15,15,30
+s1_user_143,title,chat,rake and reckoning,42,45,42
+s1_user_143,title,solo,self-made scars,36,42,42
+s1_user_144,title,solo,The maimed and the mighty,38,12,42
+s1_user_144,title,chat,A surname's shadow,38,42,42
+s1_user_144,dpt,chat,"Self-rolling mat deploys over stairs, lifts users/wheelchairs.",35,42,42
+s1_user_144,dpt,solo,"AI converts info into personalized story/game, boosting retention.",10,10,10
+s1_user_145,dpt,solo,"A solution to help people with learning impairments retain information could be an adaptive multisensory app that combines visual, auditory, and tactile features. The app would personalize learning experiences by tracking user progress and adjusting difficulty levels based on specific impairments. For individuals with visual impairments, auditory cues and vibrations would replace text. For those with dyslexia, features like color-coded text and text-to-speech would enhance readability. Spaced repetition and gamification would further engage users, reinforcing memory retention through short, frequent sessions.",10,10,10
+s1_user_145,dpt,chat,"An autonomous robotic stair assistant could follow users, securely attaching to mobility devices or a harness. Equipped with AI and sensors, it would adapt to the user's pace and navigate stairs safely. Advanced balance systems, like gyroscopic stabilizers, would ensure stability and security during ascents and descents. The robot would operate autonomously, detecting obstacles and stair angles, allowing for safe, independent stair navigation. This innovative solution could greatly enhance mobility for individuals with impairments.",45,42,45
+s1_user_145,title,chat,Legacy of a Broken Name,32,38,42
+s1_user_145,title,solo,Battle of the Broken Giants,28,42,42
+s1_user_146,title,solo,Supremacy Battle of the Giant Cyclopes.,15,10,10
+s1_user_146,title,chat,"The Dilemma of the Unborn child, Irma.",15,15,30
+s1_user_146,dpt,chat,A Step by Step Upward Mobility. A guide on easing the way up the stairs.,15,10,10
+s1_user_146,dpt,solo,Journals for Memory: Developing a storage for the sake of the physically impaired that they can peruse later and refresh on what they have learned. This could be in form of electronic mediums or tradition methods such as Blaire.,10,10,10
+s1_user_147,dpt,solo,"Memory worlds, Build a simple digital or physical world.",15,10,10
+s1_user_147,dpt,chat,Interactive wearable,30,15,25
+s1_user_147,title,chat,A Name Unwanted.,20,38,42
+s1_user_147,title,solo,The Unbroken Struggle,28,25,38
+s1_user_148,title,solo,The battle of the most powerful Cyclopes.,15,10,10
+s1_user_148,title,chat,Names and Consequences,20,25,38
+s1_user_148,dpt,chat,Develop a compact and foldable stair-climbing wheelchair with a versatile track system that adapts to various stair dimensions and materials.,35,25,42
+s1_user_148,dpt,solo,Providing best learning aid could assist people with impairments to easily learning and digest information.,10,10,10
+s1_user_149,title,solo,Limbs of war,32,12,15
+s1_user_149,title,chat,Rake against the past:A legacy reclaimed,44,42,42
+s1_user_149,dpt,chat,AI wings for wheelchairs,35,45,35
+s1_user_149,dpt,solo,Multisensory memory aid with adaptive AI tutor,20,10,10
+s1_user_150,title,solo,A strange fight,18,12,20
+s1_user_150,title,chat,Breaking the cycle,35,32,42
+s1_user_150,dpt,chat,"Consider implementing a compact and foldable stairlift system that doubles, as a staircase handrail, offering seamless assistance without taking additional space",25,35,42
+s1_user_150,dpt,solo,Use various visual representation that can asist learners to visualize and rememeber the content of the subject matter. Also provide various learning materials including practical work to make sure learners can easily absorbe the content,10,10,10
+s1_user_151,dpt,solo,by making them practice more and the teaching should incorporate fun activities and educational videos as this will help them in retaining information.,12,10,10
+s1_user_151,dpt,chat,there should be aids built on stairs to help those with mobility impairments navigate smoothly through the stairs. this will reduce the tension that may worry them during the use of stairs.,15,15,15
+s1_user_151,title,chat,legacy of names- breaking the cycle!,28,38,42
+s1_user_151,title,solo,the unknown fight of death!,15,10,15
+s1_user_152,dpt,solo,"For hearing problems, see a doctor or a sign language interpreter",10,10,10
+s1_user_152,dpt,chat,Use exoskeleton to navigate,25,25,35
+s1_user_152,title,chat,Empty promises,20,25,42
+s1_user_152,title,solo,fight to death of cyclopes,15,10,10
+s1_user_153,dpt,solo,"There should be the use of continues reminder of what is learnt
+They should be taught the same thing",10,10,10
+s1_user_153,dpt,chat,Develop a compact portable stair climbing device with a user-friendly interface,25,25,35
+s1_user_153,title,chat,The agony,15,15,25
+s1_user_153,title,solo,It won't end well if you don't stop,18,12,20
+s1_user_154,dpt,solo,"An AI personal assistant which has all user information on mobile device, that helps as a reminder and personal",15,10,10
+s1_user_154,dpt,chat,"I will develop and AI powered exoskeleton with stair climbing assist technology, This device will provide climbing assistance to users based on their walking needs",35,25,42
+s1_user_154,title,chat,MINI IRMA,20,15,35
+s1_user_154,title,solo,War of the BROKEN,28,35,42
+s1_user_155,dpt,solo,We will record the Voice-over for them and then in the voice over you use an everyday item as a marker to teach them so they can remember easily,15,10,10
+s1_user_155,dpt,chat,We will install a lightweight foldable stair climbing wheelchair that can be easily deployed for use when needed,25,25,35
+s1_user_155,title,chat,When Names bear heavy shadows,38,42,42
+s1_user_155,title,solo,Two small mountains,32,42,45
+s1_user_156,dpt,solo,"Learn what they retain most maybe visuals if its what they remember most use images, videos, diagrams and other pictures",15,10,10
+s1_user_156,dpt,chat,Construct wheelchair friendly surfaces and avoid steep stairs make them as flat as possible,15,12,15
+s1_user_156,title,chat,Just give the child a random meaningful name with no baggage to it,15,12,15
+s1_user_156,title,solo,Sometimes we should not let the hate overpower the love because in wars there are no real hero's just victims they died trying to impress who,15,10,10
+s1_user_157,title,solo,The Strength of Cyclopes In Injury,38,12,15
+s1_user_157,title,chat,The Name,15,15,15
+s1_user_157,dpt,chat,Introduce stair-lift systems that are lightweight and foldable at various locations. This would help people with different mobility issues to benefit,20,15,30
+s1_user_157,dpt,solo,Create a system or an app that would help people with learning impairments retain information and keep information for long,10,10,10
+s1_user_158,dpt,solo,creating better study methods like using visual aids which are much more easy to remember,10,10,10
+s1_user_158,dpt,chat,creating modular stair climbing wheelchair or scooter with built in safety features which will help,20,25,38
+s1_user_158,title,chat,Irma`s name dilemma,15,12,25
+s1_user_158,title,solo,cyclope fight,18,10,10
+s1_user_159,title,solo,THE LAST LIMBS OF GIANTS AND CRATER OF THE BROKEN TITANS.,44,10,15
+s1_user_159,title,chat,THE NAME WE CHOOSE TO CARRY,28,32,42
+s1_user_159,dpt,chat,"Introduce a community support tradition allowing single mother to choose a new family surname for their child, reflecting strength and resilience instead of defaulting to either parent's name. The empowers families to break harmful cycles and create positive identites for their children.",10,10,10
+s1_user_159,dpt,solo,"Create a support program for single mothers offering legal, emotional and educational resources about naming options. This program promotes informed stigma-free choices and fosters community understanding to help.",10,10,10
+s1_user_160,title,solo,The Last Stand of the Limbless Giants.,20,48,10
+s1_user_160,title,chat,Inheritance of names and choices.,20,12,42
+s1_user_160,dpt,chat,"I would suggest they install compact, fold-out stair lift that blend seamlessly with home decor for non-intrusive mobility aid.",25,25,38
+s1_user_160,dpt,solo,"To help people with learning impairment remember information, it is best to use simple enhance on activities. Breaking information into small steps and reviewing often makes it easier to learn. Personalizing lessons to what each person needs and giving lots of encouragement also helps a lot.",10,10,10
+s1_user_161,dpt,solo,"People should learn one thing at a time, bit by bit.",10,10,10
+s1_user_161,dpt,chat,develop a rectangular stair elevator that integrates into existing staircase,20,15,38
+s1_user_161,title,chat,A name dilemma,15,12,25
+s1_user_161,title,solo,Cyclopes rage,22,12,15
+s1_user_162,title,solo,The Broken Giants,28,38,42
+s1_user_162,title,chat,Inheritance of shadows and the weight of names.,38,42,45
+s1_user_162,dpt,chat,Creating stairs that can change into a ramp when needed,35,45,40
+s1_user_162,dpt,solo,"Making each lesson tied to  a short, simple story to make it easier to remember",10,10,10
+s1_user_163,dpt,solo,Create some form of entertaining approach. Something to keep them entertained as they learn.,15,12,12
+s1_user_163,dpt,chat,Design a wheelchair that can go upstairs. This should have extendable legs that are stable and safe.,30,25,35
+s1_user_163,title,chat,Irma's dilemma,15,15,25
+s1_user_163,title,solo,The interesting fight of cyclopes.,15,10,10
+s1_user_164,title,solo,"The Clash of the great Cyclopes.
+The death of the handicapped heros",15,10,10
+s1_user_164,title,chat,Harvesting a Legacy: Irma's Fight for Identity,38,32,42
+s1_user_164,dpt,chat,Install a modular-compact stair-climbing platform with automated grab bars and sensor-triggered safety features,36,25,42
+s1_user_164,dpt,solo,"An AI device that can help break down information into a simplified form, and easily accessible and consumable",15,10,10
+s1_user_165,dpt,solo,"Create a wearable device that links information to real-world cues. When the user approaches a relevant place or object (like the fridge or desk), the device gives a gentle reminder?vibration, light, or simple audio. Over time, it adjusts reminders based on what the user remembers, helping them retain information naturally through daily routines.",15,10,10
+s1_user_165,dpt,chat,"Create smart ?adaptive stairs? that automatically transform into wide, shallow ramps when someone with mobility impairments approaches, using pressure sensors and a silent folding mechanism to make any staircase instantly accessible without separate equipment.",45,45,45
+s1_user_165,title,chat,The Weight of a Name,30,35,42
+s1_user_165,title,solo,The Last Limbs of Titans,38,12,38
+s1_user_166,title,solo,The Confused Cyclopes,22,10,38
+s1_user_166,title,chat,A legacy All Her Own,38,42,45
+s1_user_166,dpt,chat,"Creating a foldable, rail-mounted lift system that integrates with smart home devices for seamless voice-activated stair navigation and emergency assistance alerts",35,42,42
+s1_user_166,dpt,solo,Create robots that can help people by providing information when they need them,15,15,15
+s1_user_167,dpt,solo,Multisensory learning companion,15,10,10
+s1_user_167,dpt,chat,consider developing an adaptable light weight stair lift system with modular component,25,25,35
+s1_user_167,title,chat,the name she carried,35,42,42
+s1_user_167,title,solo,the broken colossi,36,42,42
+s1_user_168,title,solo,Cyclopes fight in the crater.,32,10,10
+s1_user_168,title,chat,Legacy or liberation,32,38,42
+s1_user_168,dpt,chat,Use ramps that are retractable for people with wheel chairs,20,15,30
+s1_user_168,dpt,solo,Use games or plays to instill the information.,15,10,10
+s1_user_169,title,solo,Massive crater caused by a great fight between two cyclopes fighting to the death.,15,10,10
+s1_user_169,title,chat,How names carry weight and responsibilities.,20,15,35
+s1_user_169,dpt,chat,Develop a system of foldable and portable ramps that are still light weight with self adjusting supports capable of comforming to different staircases and controlled by an app.,38,35,42
+s1_user_169,dpt,solo,I feel like the best solution for this would be creating an app that use this appproach would be really good. The will have repetitive learning tasks done at intervals. Doing something over and over again makes it easier to remember.,15,10,10
+s1_user_170,title,solo,Wounds of the Titans:The Final clash,22,10,15
+s1_user_170,title,chat,A name unburdened by the past,38,42,42
+s1_user_170,dpt,chat,"Consider designing a compact portable stair climbing robot that securely attaches to a person's wheelchair or mobility device, allowing them to smoothly ascend and descend stairs with minimal assistance.",38,25,45
+s1_user_170,dpt,solo,"Helping people with learning impairment remember information works best when lessons are simple and practical. Breaking information into small chunks, combining pictures and sound and repeating the important point clearly makes learning easier. Using note colors and hands-on activities also help make the process clearer and more engaging",10,10,10
+s1_user_171,title,solo,"Native Fight King
+Cyclopes King",18,10,15
+s1_user_171,title,chat,Wedlock Blood,32,38,42
+s1_user_171,dpt,chat,Install a stairlift with foldable seats.,15,15,25
+s1_user_171,dpt,solo,"Use AI tool aid to help and try to experience to gain info, which is the best way to learn. Repeating is key too to retain info for long memory.",12,10,10
+s1_user_172,title,solo,Giants trapped in endless Combat,38,12,10
+s1_user_172,title,chat,The lineage of leaving,38,42,42
+s1_user_172,dpt,chat,Create an elevator with robots assistive companion,25,25,35
+s1_user_172,dpt,solo,Create an AI that help remind to create mnemonics,15,10,10
+s1_user_173,title,solo,The Weight of a Mountain's Weakness,42,42,42
+s1_user_173,title,chat,The Rake and the Relics of a Name,44,42,45
+s1_user_173,dpt,chat,"Install an autonomous, temporary stair-climbing platform that folds out of the wall on demand, using gyroscope stabilization and magnetic adhesion to safely lift a person or wheelchair over any existing staircase configuration.",44,42,45
+s1_user_173,dpt,solo,"Develop an ""Active Recall Micro-Dose"" system that integrates neurofeedback monitoring with personalized multimedia prompts, automatically scheduling ultra-short, highly contextualized review sessions just as the user's brain activity indicates information is fading from short-term memory.",10,10,10
+s1_user_174,dpt,solo,Neuro-narrative Mapping (NNM)- a wearable light weight EEG headband paired with an AI companion app that transforms study material into personalized multisensory narrative journeys,15,10,10
+s1_user_174,dpt,chat,A modular retrfit system installed on existing staircases that temporarilly transforms steps into a smppth track based incline plane on demand,38,42,42
+s1_user_174,title,chat,What the Rake Decided,44,42,42
+s1_user_174,title,solo,The Missing and the Mauled,44,42,42
+s1_user_175,dpt,solo,"Use multisensory like music , texts, arts to aid visuals.",15,15,15
+s1_user_175,dpt,chat,I think we can create some multisensory aids for blind people,15,10,10
+s1_user_175,title,chat,I think the baby should take Irma's last name since the father of the baby does not want the baby.,10,10,10
+s1_user_175,title,solo,They both wanted to prove show strong they are size they are of the same size.,12,10,10
+s1_user_176,dpt,solo,"suggest writing stuff down in short hand and have stick on papers on surface they regularly look at. Additionally, they could try to break the information down to the simplest form.",10,10,10
+s1_user_176,dpt,chat,Use robotics that can attach to various wheelchair types and can be operated by mobile phones.,35,25,40
+s1_user_176,title,chat,Chased by Rake: The last name dilemma,32,25,42
+s1_user_176,title,solo,the clash of the cyclopes,18,12,15
+s1_user_177,title,solo,The Tragic battle of Cyclopes at the Mountain,18,10,15
+s1_user_177,title,chat,"Rake in Hand, Name in Heart",42,42,45
+s1_user_177,dpt,chat,"Develop a modular, foldable stairway ramp equipped with a secure, guided belt system that assists in both ascending and descending motions.",32,35,42
+s1_user_177,dpt,solo,"The best solution would be to change the learning environment into a practical field, where every concept is tested, either in a lab or a real life demonstration to increase their chances of remembering. Teaching aids can also be used to help in this.",10,10,10
+s1_user_178,dpt,solo,"Utilize adaptive AR memory palace with biometric anchors. I provides multisensory cues and spatial context, as well as physiological feedback.",38,42,15
+s1_user_178,dpt,chat,"Develop a modular ""morphing"" stairway tile system that leverages hinged step-treads and smart sensing to utilize adjustable friction tracks and support lift system.",42,42,42
+s1_user_178,title,chat,Raking up His Name: The Unbroken Line,44,42,42
+s1_user_178,title,solo,Echoes of Broken Titans,41,42,42
+s1_user_179,dpt,solo,you can use an app that turns study note into memes or funny visuals,10,10,10
+s1_user_179,dpt,chat,"A lwo profile retractable stairs tread system that motorizes each step when needed and flips up to form a smooth ramp for wheelchair, then folds back into normal stairs",38,42,42
+s1_user_179,title,chat,What the Rake couldn't clear,44,42,42
+s1_user_179,title,solo,Limbs & Limits,38,12,42
+s1_user_180,title,solo,An Amusing Crater Fight: Muscular Cyclopes,18,10,10
+s1_user_180,title,chat,Chasing Shadows: A Name Worth Bearing,38,42,42
+s1_user_180,dpt,chat,Design a stair-climbing wheelchair equipped with caterpillar tracks to safely transport individuals up and down stairs.,20,25,40
+s1_user_180,dpt,solo,Use images or compose musical patterns out of the information to help them retain it easily. Make use of audio visuals.,15,10,10
+s1_user_181,title,solo,The battle of the strongest with passion to win.,15,12,20
+s1_user_181,title,chat,The rake that cleared the way of legacy,38,42,42
+s1_user_181,dpt,chat,Build a staircase that aids their movement,15,10,10
+s1_user_181,dpt,solo,Make note books for them with the content that has been taught.,10,10,10
+s1_user_182,dpt,solo,"Provide strategies or tools (auditory) that can be used for learning, which will always be convenient to them.",15,10,10
+s1_user_182,dpt,chat,"Design a stair-climbing wheelchair with advanced stability for their safety, which includes technology that allows them to descend and ascend.",20,15,35
+s1_user_182,title,chat,Broken Inheritance,32,42,42
+s1_user_182,title,solo,The two Disabilities.,15,12,15
+s1_user_183,dpt,solo,"Develop a multi-sensory AI learning companion that customizes content based on the user's cognitive strengths and challenges. which can include real time speech-to-text and text-to-speech, tactile feedback and emotional trackers",15,10,10
+s1_user_183,dpt,chat,Create adaptive smart stairs that detect approaching users with mobility impairments via smartphone and wearable signals and automatically transform into a compact stair lift platform which can use foldable segments,44,42,45
+s1_user_183,title,chat,The Name She Chose,20,25,38
+s1_user_183,title,solo,The wounds that argue,38,42,42
+s1_user_184,dpt,solo,A multi sensor learning companion with a User to input key facts or concepts they want to remember.,10,10,10
+s1_user_184,dpt,chat,"Design small, lightweight, and user-friendly stair-climbing robots that safely move people up and down stairs with minimal physical effort. Install modular stair tread platforms that convert standard staircases into gentle ramps, making it easier and safer for wheelchair users to access.",40,25,42
+s1_user_184,title,chat,Rake Rebellion: A New Name Blooms,44,42,45
+s1_user_184,title,solo,"Limbs of Fury, Hearts of Stone",38,42,42
+s1_user_185,title,solo,The Cyclopes incident at the massive crater,18,10,10
+s1_user_185,title,chat,Heritage of Hope,32,15,42
+s1_user_185,dpt,chat,Use elevators with speech assistance and voice recognition,15,15,30
+s1_user_185,dpt,solo,Provide earpiece devices to allow recording of content and repetition until one understands the concept,10,10,10
+s1_user_186,dpt,solo,Interactive learning,10,10,10
+s1_user_186,dpt,chat,Design an affordable and easily retrofittable escalator system with foldable steps that morph into a smooth inclined plan equipped with side rails and traction for wheerlchairs or mobility aids,38,42,42
+s1_user_186,title,chat,Chasing shadows: Naming Destiny's Future Path,38,38,42
+s1_user_186,title,solo,Wounded Giants Relentless Mountain clash,36,12,15
+s1_user_187,dpt,solo,This is to inform them through video informative productions which will vividly break it down to them in the easiest possible way.,12,10,15
+s1_user_187,dpt,chat,"By helping people with mobility impairments, we will have to event a walking stick that can remotely squeeze or enter when it gets I contact with anything that will block once way. This will be attached with an alarm system to alert you as well, indicating what exactly is in front of you by the help of the sensor. This is clearly to inform you whether it's wall, culverts, tree etcetera.",20,15,20
+s1_user_187,title,chat,Irresponsible Fathers Legacy,20,25,38
+s1_user_187,title,solo,The Unknown Death Of The Two Cyclopes,18,10,10
+s1_user_188,dpt,solo,Create a virtual reality system that makes learning material into interactive 3D spatial environments.,15,10,10
+s1_user_188,dpt,chat,Develop a stair-climbing wheelchair with retractable track systems which automatically adjust to different stair types and gradients.,30,25,42
+s1_user_188,title,chat,The Name She Carried.,28,42,42
+s1_user_188,title,solo,Limbs of War,28,12,35
+s1_user_189,title,solo,The battle of the Cyclopes,18,12,15
+s1_user_189,title,chat,A legacy of last Names,22,25,42
+s1_user_189,dpt,chat,Design stair-climbing wheelchairs with robotic arms for improved stability and navigation on complex stairs,35,35,42
+s1_user_189,dpt,solo,Creating information-retaining robots to help provide information to this people,15,12,10
+s1_user_190,title,solo,The fight between the two Cyclopes.,32,10,15
+s1_user_190,title,chat,Irma's name,15,12,15
+s1_user_190,dpt,chat,Create a type of technology that helps the individual can easily descend and attached to existing staircases.,20,15,15
+s1_user_190,dpt,solo,Create tools such as visuals that help them easily capture what is taught.,10,10,10
+s1_user_191,dpt,solo,I believe that the use of technology can be of greater help than humans.,15,10,10
+s1_user_191,dpt,chat,The designed modular stair-climbing wheelchair should be designed to accommodate all various stair types,25,15,30
+s1_user_191,title,chat,A legacy Unnamed,34,42,42
+s1_user_191,title,solo,Ego blinds,24,12,35
+s1_user_192,dpt,solo,"Adaptive Semantic-Tactile Mapping (ASTM) System."" This system uniquely combines personalized content structuring, multi-sensory engagement, and spaced repetition, focusing on the principle that information retention is maximized when the learning pathway is dynamically adapted to the individual's specific cognitive profile and preferred sensory channel.",15,10,10
+s1_user_192,dpt,chat,"Ascend-Glide System (AGS)."" This system replaces traditional fixed lifts and ramps with a universal, portable, and semi-autonomous robotic attachment that temporarily transforms any standard staircase into a smooth inclined plane for the user's own wheelchair or walking frame.",44,42,45
+s1_user_192,title,chat,The Weight of the Last Name.,25,25,42
+s1_user_192,title,solo,"The Argument of the Crushing Ones.Why this title is effective:Highlights Scale and Impact: ""Crushing Ones"" immediately conveys the immense size of the Cyclopes (""size of small mountains"") and the destructive nature of their combat, fitting the setting of a ""massive crater.""Focuses on Motivation (Ambiguity): The story's central mystery is the reason for the fight (""No one knew what started their fight""). ""The Argument"" suggests a senseless or primal cause, capturing the ambiguity of whether it's about strength or mutual destruction.",20,10,38
+s1_user_193,dpt,solo,"audio narration for key concepts
+turn learning into engaging mini challenge like games to keep motivation high",10,10,10
+s1_user_193,dpt,chat,Consider a developing module stair climbing robotic platform that can attach to existing staircases and safety transport users with intuitive controls.,38,25,42
+s1_user_193,title,chat,A girl true name,22,15,35
+s1_user_193,title,solo,The craters of the Titans,38,42,15
+s1_user_194,dpt,solo,CREATING A DEVICE THAT CAN BE COMFORTABLE FOR THEM TO USE .,12,10,10
+s1_user_194,dpt,chat,installation of automated stairlifts controlled via smartphone apps,20,25,38
+s1_user_194,title,chat,Breaking chains: Irma's choice and the Future of er Child's Name,32,25,42
+s1_user_194,title,solo,A crazy Cyclopes Fight,15,10,15
+s1_user_195,title,solo,The Clash of the Cyclopes,18,10,42
+s1_user_195,title,chat,"A legacy of names, beyond the shadows",38,38,42
+s1_user_195,dpt,chat,Retractable Ramp system,20,25,35
+s1_user_195,dpt,solo,Adaptive cognitor,15,10,10
+s1_user_196,dpt,solo,Provide personalized text to speech Ai tool to aid their learning and retention process for them,12,10,10
+s1_user_196,dpt,chat,"Develop an  adaptive stair climbing robotic device that secure attaches to a wheel chair, enabling navigation of stairs",35,25,42
+s1_user_196,title,chat,Tale of Irma,15,12,15
+s1_user_196,title,solo,The Crater Kings,20,12,38
+s1_user_197,title,solo,The Deadly Battle,15,12,15
+s1_user_197,title,chat,A Name With No Chains,38,42,45
+s1_user_197,dpt,chat,"Design and install a modular, portable stair-climbing device with smart sensors and voice-command capabilities that can attach to wheelchairs or assist individuals directly.",38,35,45
+s1_user_197,dpt,solo,Design a simple and easy-to-understand app for them that contains an AI who can be patient and lenient with them,20,15,15
+s1_user_198,dpt,solo,Making what ever they want to learn into music which they can sing.,10,10,10
+s1_user_198,dpt,chat,Developing a stair climbing mobility device that can combine as escalator and a lift would help.,20,25,35
+s1_user_198,title,chat,The burden of heritage.,20,35,42
+s1_user_198,title,solo,The fight of the cyclopes.,18,10,15
+s1_user_199,dpt,solo,"Use more time and methods to teach them
+Use simple explanations and examples",15,10,10
+s1_user_199,dpt,chat,"Develop a modular, foldable track system that temporarily attaches to any staircase, allowing wheeled mobility devices to ascend and descend safely and smoothly",35,35,42
+s1_user_199,title,chat,"A name not worth carrying
+A mother's stand
+Weight of a name",32,42,42
+s1_user_199,title,solo,"A fight for the disabled
+Having no legs or No hands
+The crater fight",12,10,10
+s1_user_200,title,solo,"the two inquisitive men
+
+Men of great minds.",15,10,10
+s1_user_200,title,chat,irmas tales,15,15,15
+s1_user_200,dpt,chat,install stair lift or vertical platforms to provide a seated or standing in between,15,15,15
+s1_user_200,dpt,solo,i will memorize and say it to them countless time as needed.,12,10,10
+s1_user_201,title,solo,Titans of the Abyss,20,10,15
+s1_user_201,title,chat,Lineage of Resilience,38,38,42
+s1_user_201,dpt,chat,"Develop a light weight, foldable stair climbing exoskeleton that can be easily worn and operated providing users with both support and control as they navigate stairs",35,35,45
+s1_user_201,dpt,solo,Create an interactive multisensory learning platform that uses personalized AI tutors to adapt content delivery combine visuals sounds and touch to reinforce key information in ways tailored to each learner,10,10,10
+s1_user_202,title,solo,Crater Kings: A Clash of Broken Giants,36,12,38
+s1_user_202,title,chat,Inheritance of a Name: Legacy of the Rake,38,42,45
+s1_user_202,dpt,chat,"Design a modular escalator system with customizable handrails and step platforms that can be installed over existing staircases, providing seamless accessibility without the need for structural renovation.",36,35,42
+s1_user_202,dpt,solo,"Develop an interactive, gamified learning platform that uses personalized storytelling and multisensory cues?like tactile feedback, visuals, and sound?to reinforce concepts. Incorporate AI that adapts to each learner's cognitive patterns, offering memory-boosting tools like spaced repetition, mnemonic-building games, and real-life scenario simulations to make abstract ideas stick more effectively.",10,10,10
+s1_user_203,title,solo,this must be from the story if cyclopes whereby there were two dead animals,10,10,10
+s1_user_203,title,chat,ranging away legacy a name known as worth carrying,34,12,38
+s1_user_203,dpt,chat,allow the mobility impairments to move effortless between  the,10,10,10
+s1_user_203,dpt,solo,helping impairments to maintain the communicated message.,10,10,10
+s1_user_204,dpt,solo,Implementing multisensory storytelling anchors,30,12,10
+s1_user_204,dpt,chat,Developing a modular robotic stair-climbing wheel chair that can easily be attached to existing mobility devices to navigate stairs safely,40,35,45
+s1_user_204,title,chat,The Irony of the Legacy in a name,25,28,42
+s1_user_204,title,solo,Clash of the Crippled Fighters,24,12,38
+s1_user_205,title,solo,THE CRATERS LAST STAND:FIGHT BEYOND STRENGTH,24,12,35
+s1_user_205,title,chat,WHAT IS IN A NAME.,20,15,35
+s1_user_205,dpt,chat,PORTABLE STEP PODS THAT GENTLY LIFTS USER WITH A VOICE FUNCTION.,38,42,42
+s1_user_205,dpt,solo,CREATING AN APPLICATIONS THAT GAMIFIES LEARNING WITH VISUAL CUES AND SOUNDS THAT HELP THEM UNDERSTAND INFORMATION EASILY,15,10,10
+s1_user_206,title,solo,The battle of the maimed.,18,12,38
+s1_user_206,title,chat,The agony of a deadbeat father.,15,15,25
+s1_user_206,dpt,chat,model a robot that can aid in giving directions on which steps to take.,20,15,20
+s1_user_206,dpt,solo,Make a video lesson that the learning impaired can turn to whenever they feel that they are blank.,12,10,10
+s1_user_207,dpt,solo,Develop a multisensory microlearning app designed specifically for people with learning impairments.,15,10,10
+s1_user_207,dpt,chat,Develop a portable stair climbing device that can climb through stairs,20,15,30
+s1_user_207,title,chat,Irma's child name,15,10,15
+s1_user_207,title,solo,What a pride,18,12,35
+s1_user_208,title,solo,The Death of Two Cyclopes,38,10,35
+s1_user_208,title,chat,"Her Name, Her Legacy",32,32,42
+s1_user_208,dpt,chat,A foldable lift would be very appropriate in ensuring that people with this disability can go up and down stairs. There should however be no modifications on this.,20,15,20
+s1_user_208,dpt,solo,"One of the ways that I can help people with learning impairments retain information is finding better teaching practices that suit them. If they learn through visuals or other practical things, it would be easier for them to be able to retain information. Things like Yoga would also help them greatly in terns of retaining information.",10,10,10
+s1_user_209,title,solo,Who is Stronger? Me or You?,28,25,35
+s1_user_209,title,chat,Like Father like Son?,25,15,38
+s1_user_209,dpt,chat,installing a portable stairlift that is remotely operated to provide accessibility.,20,15,25
+s1_user_209,dpt,solo,"Use of multisensory learning, touch, visual sounds, and emotion that enhance information retention.",15,10,10
+s1_user_210,dpt,solo,"SenseSync uniquely blends personalized storytelling with synchronized sensory cues?like movement, color, and sound?to create immersive learning experiences tailored to each individual's memory strengths. By weaving emotion and physical activity into lessons, it unlocks deeper connections in the brain, making information stick naturally. This innovative fusion of senses and personalization transforms how people with learning impairments absorb and recall knowledge.",10,10,10
+s1_user_210,dpt,chat,"StepEase is a smart stair system with motorized adjustable platforms and adaptive handrails that support and move with users' pace, making stair navigation safer and easier for people with mobility impairments.",42,38,45
+s1_user_210,title,chat,Legacy of Shadows.,35,42,42
+s1_user_210,title,solo,Fractured Giants,36,42,42
+s1_user_211,dpt,solo,"Create a virtual ""Memory Forest"" where each concept is represented by a tree that grows as the learner interacts with it through sound, visuals and touch. This immersive, multisensory experience helps people with learning impairments form strong, lasting associations by linking information to spatial and emotional memory.",10,10,10
+s1_user_211,dpt,chat,"Design modular, retractable staircases that transform into smooth ramps at the push of a button. Each step contains a sensor-driven mechanism that flattens into a continuous incline allowing users with mobility impairments to ascend or descend safely using wheelchairs or mobility aids no need for separate elevators or lifts.",42,42,45
+s1_user_211,title,chat,Legacy of the Rake,38,42,42
+s1_user_211,title,solo,The Titans' Last Stand,32,12,35
+s1_user_212,title,solo,the crater king,22,42,15
+s1_user_212,title,chat,a name of  her own,30,35,42
+s1_user_212,dpt,chat,"develop a modular, adaptable staircase overlay system with sensor based smart railing that transform into a step less ramp when needed",42,42,45
+s1_user_212,dpt,solo,use an app  that turn lessons into fun stories with pictures and choices,10,10,10
+s1_user_213,dpt,solo,Hire professional tutors and teachers.,10,10,10
+s1_user_213,dpt,chat,Installing modular stairs.,15,12,15
+s1_user_213,title,chat,Irma's dilemma,15,15,25
+s1_user_213,title,solo,Survival for the fittest,18,15,20
+s1_user_214,title,solo,"Handless versus no legs, Cyclopes fight.",22,10,10
+s1_user_214,title,chat,Name giving and the consequences.,15,12,20
+s1_user_214,dpt,chat,Empowering mobility Independence in the stairs' solution.,10,10,10
+s1_user_214,dpt,solo,Helping people with learning impairments retain information.,10,10,10
+s1_user_215,title,solo,A fight of two Cyclopes,32,10,15
+s1_user_215,title,chat,Rakes and Reckonings: A family's firm stand,38,38,42
+s1_user_215,dpt,chat,Design an adaptive stair climbing robot that can allow users to ascend and descend stairs safely and independently.,30,25,40
+s1_user_215,dpt,solo,By writing out information and implementing learning routines.,10,10,10
+s1_user_216,dpt,solo,Use multi sensory anchors,30,15,15
+s1_user_216,dpt,chat,"Develop portable ,modular walkway system",25,25,35
+s1_user_216,title,chat,The power in a name,25,25,42
+s1_user_216,title,solo,The mysterious crater,15,10,10
+s1_user_217,title,solo,Scare of the First Strike,28,12,38
+s1_user_217,title,chat,The Legacy Of Names,20,25,42
+s1_user_217,dpt,chat,"Develop a lightweight, portable robotic exoskeleton that can be easily attached to the legs, providing support and powered assistance while ascending or descending stairs.",35,25,45
+s1_user_217,dpt,solo,Assign tangible tokens representing concepts; users assemble with color cues to physically reconstruct information pathways.,18,10,15
+s1_user_218,title,solo,The crater testament.,32,42,38
+s1_user_218,title,chat,Inheritance of names.,18,25,35
+s1_user_218,dpt,chat,"Design a retractable modular ramp system that seamlessly integrates with existing staircases, allows easy deployment, and provides stable handrails for traditional support.",25,25,40
+s1_user_218,dpt,solo,"Develop ""memory moss,"" a wearable device that uses touch, scent, and sound to reinforce information. It delivers gentle vibrations, calming scents, and voice prompts to help people with learning impairments remember tasks and routines through multisensory cues.",15,10,10
+s1_user_219,title,solo,Disparities between two huge cyclopes.,22,10,15
+s1_user_219,title,chat,Naming of Irma,18,12,30
+s1_user_219,dpt,chat,using of rumps and elevators and potable wheelchairs,15,12,15
+s1_user_219,dpt,solo,use of clear signage,12,10,12
+s1_user_220,dpt,solo,A software that takes learning material as an input and outputs a creative song to help in information retention.,10,10,10
+s1_user_220,dpt,chat,A sensor that is attach to stairs and moves the stair you are standing on up or down. buildings will need to integrate this technology to assist in its functionality,32,35,38
+s1_user_220,title,chat,Unclaimed Legacy,38,42,42
+s1_user_220,title,solo,A cyclopes death bed,18,10,10
+s1_user_221,dpt,solo,"most original effective solution to curb traffic is
+using sign boards that are easy to comprehend",10,10,10
+s1_user_221,dpt,chat,"a stair cover equipped with retractable telescopic arms that deploy intuitively with motion sensors, creating a dynamic lift system that adapts to the user's pace and height",42,42,42
+s1_user_221,title,chat,A name to Call Her Own,35,35,42
+s1_user_221,title,solo,A Strive with zero Reward,18,22,38
+s1_user_222,dpt,solo,"The learner can ""replay"" the complete sensory sequence later to help recall the information. These personalized sensory experiences build stronger neural pathways by linking abstract concepts with concrete sensory input, supporting better retention and recall, especially in individuals with cognitive or learning challenges. This idea is original because it uses cross-sensory encoding in a physical, customizable microenvironment?a concept not commonly applied at scale in education. It's effective because it leverages the brain's natural multi-sensory integration processes to enhance memory in a way that's engaging and tailored to individual needs.",10,10,10
+s1_user_222,dpt,chat,"Introduce the Morphing Staircase System (MSS)?a smart staircase that transforms into a smooth ramp using shape-memory materials or pneumatic technology. This allows people with mobility impairments to navigate stairs safely and independently without needing separate elevators or stairlifts. The transformation can be triggered by voice command, mobile app, or wearable device, making it highly accessible and user-friendly. By integrating universal design into everyday architecture, this system offers a seamless, dignified, and inclusive solution for public and private spaces alike.",48,42,45
+s1_user_222,title,chat,The Reckoning of Heritage,32,38,42
+s1_user_222,title,solo,Giants of the Hollow War.,18,10,15
+s1_user_223,dpt,solo,Create games that have a moral lesson or whose end lead to the lesson learned.,10,10,10
+s1_user_223,dpt,chat,Create singing games with avid imagery to help with information retention.,15,10,10
+s1_user_223,title,chat,"My name, my past and so my future.",28,32,35
+s1_user_223,title,solo,Our fight: their marvel.,36,12,42
+s1_user_224,dpt,solo,use bright aesthetically pleasing learning materials to capture their attention,12,10,10
+s1_user_224,dpt,chat,designing modular stair climbing units featuring automatic lifts and ramps that can adjust to the users needs,30,25,42
+s1_user_224,title,chat,shackles of inheritance,38,42,45
+s1_user_224,title,solo,the magma giant beasts,18,10,10
+s1_user_225,title,solo,Cradle of titans,24,12,42
+s1_user_225,title,chat,The name she carried,38,42,40
+s1_user_225,dpt,chat,Adaptive modular stair transforming system transforming into a ram or lift combined with some sense of engineering,40,35,42
+s1_user_225,dpt,solo,NeuroPatch Is a personalised memory boosting wearable with addaptive Learning Ai,10,10,10
+s1_user_226,dpt,solo,invent a small portable electronic gadget which they can use to repeatedly listen to the information and so with repeated listen they will retain the information,15,10,10
+s1_user_226,dpt,chat,Install electric elevATORS WHICH WILL AID THEM NAVIGATE UP OR DOWN THE STAIRS,15,15,25
+s1_user_226,title,chat,DEADBEAT DAD,15,15,15
+s1_user_226,title,solo,ON A SECOND THOUGHT,20,25,35
+s1_user_227,dpt,solo,To encourage people to memorize the information that they learn through a song to remember easily.,10,10,10
+s1_user_227,dpt,chat,By installing a modular staircase lift that operates on an eco-friendly power source to ensure accessibility without compromising energy efficiency.,25,15,35
+s1_user_227,title,chat,The Legacy of a Name,20,25,42
+s1_user_227,title,solo,The Great Fight.,15,12,15
+s1_user_228,dpt,solo,"An effective solution is to create a multisensory learning tool that uses stories, visuals, sounds, and hands-on activities to help people with learning impairments remember information in a fun and engaging way.",12,10,10
+s1_user_228,dpt,chat,"A helpful solution is to design smart staircases with built-in lift platforms and voice-activated controls, allowing people with mobility impairments to safely and independently move up and down stairs.",35,25,40
+s1_user_228,title,chat,"""Inheritance of Silence""",40,42,45
+s1_user_228,title,solo,"""Giants of the Hollow""",28,12,38
+s1_user_229,title,solo,The battle of the broken giants.,22,42,38
+s1_user_229,title,chat,Naming Shadows and new beginnings.,32,38,42
+s1_user_229,dpt,chat,I propose designing a portable stair-climbing robotic platform. It should be fitted onto existing staircases. Also developing smart handrails with sensors and motorized grip assistance.,38,35,42
+s1_user_229,dpt,solo,"Create an interactive, voice-assisted app that uses personalized visuals, repetition-based games, and storytelling to reinforce key concepts. It adapts to individual learning speeds and includes prompts for memory recall, making learning more engaging and accessible for users with impairments.",15,10,15
+s1_user_230,title,solo,the cyclopes,15,12,15
+s1_user_230,title,chat,The Name She Carried,28,42,42
+s1_user_230,dpt,chat,create flat roads or Design a compact,15,10,10
+s1_user_230,dpt,solo,personalized teachers,15,10,10
+s1_user_231,title,solo,The Big Giant Fight.,15,12,15
+s1_user_231,title,chat,Rake- Swept Names,38,38,42
+s1_user_231,dpt,chat,"The best solution is to have a handrail system that is motorized, with seats too where the people can use it to go up and down te stairs. This system could be intergrated into the existing railings easily.",20,25,35
+s1_user_231,dpt,solo,The first step is having visual aids that are not easy to forget. They may be patterns or diagrams that these people could easily remember.Fun activities during learning could also be included whuch are also very easy to remember.,15,12,12
+s1_user_232,title,solo,The Two cyclops of the World Tree,28,10,45
+s1_user_232,title,chat,The Broken Lineage,28,38,42
+s1_user_232,dpt,chat,Give them an exoskeleton suit that can be controlled,35,25,40
+s1_user_232,dpt,solo,Neuro implant with chat gpt included that helps them retain information,20,10,10
+s1_user_233,dpt,solo,Help them create toys to memorize information,10,10,10
+s1_user_233,dpt,chat,wheelchair accessory that can be easily attached or detached,20,15,20
+s1_user_233,title,chat,Irma's babyshower,15,12,15
+s1_user_233,title,solo,The pit of unfinished giants,38,42,38
+s1_user_234,dpt,solo,"Make learning accessible through careful considerations and making items to help those who need it focus on their retention. Make an item as well that allows for people to have an easier time reading like glasses, but gives clarity for disabled people.",12,10,10
+s1_user_234,dpt,chat,Make a effortless moped that can form motion slides to go up a staircase easily for people that cannot walk. Also have a device which makes stairs turn into a ramp for people with wheelchairs.,36,35,38
+s1_user_234,title,chat,The baby should take the name of the mother since the father is not involved in the babies life. It should be easy. Forging a new legacy: a mothers choice.,20,12,38
+s1_user_234,title,solo,battle of the breaking: Cyclopes and clubs,32,12,15

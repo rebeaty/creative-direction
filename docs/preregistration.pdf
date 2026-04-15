@@ -1,0 +1,88 @@
+<!DOCTYPE html><html lang="en"><head><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" >
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+			<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+			<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+<script src='https://aspredicted.org/js/shared/main.js?version_date=1774453500' type='text/javascript'></script><link href='https://aspredicted.org/css/style.css?version_date=1774453500' rel='stylesheet' type='text/css' ><link href='https://aspredicted.org/css/header_bar.css?version_date=1761471773' rel='stylesheet' type='text/css' ><link href='https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap' rel='stylesheet'><link rel="apple-touch-icon" sizes="180x180" href="https://aspredicted.org/favicons/apple-touch-icon.png">
+			  <link rel="icon" type="image/png" sizes="32x32" href="https://aspredicted.org/images/favicons/favicon-32x32.png">
+			  <link rel="icon" type="image/png" sizes="16x16" href="https://aspredicted.org/images/favicons/favicon-16x16.png">
+			 <meta name="msapplication-TileColor" content="#da532c">
+			 <meta name="theme-color" content="#ffffff">
+			 </head></head>
+			 <body>
+    <div class='wcl-logo-bar'>
+        <img class='img-responsive logo' src='/images/aspredicted_penn_wharton.png' style='margin-left:1px; float:left; height:60px; width:auto; '>
+        <a href='http://credlab.wharton.upenn.edu' target='_blank'>
+            <img class='img-responsive logo' src='https://aspredicted.org/images/CredLab Logo 2020_transparent.svg' style='margin-right:1px; float:right; height:60px; width:auto;'>
+        </a>
+    </div><div class='wcl-topbar' style='margin-bottom:0px;'>
+							<div class='wcl-title-row'>
+								<div class='wcl-nav-left'></div><div class='wcl-nav-right'>
+				<a class='wcl-nav-side' href='https://ascollected.org/redesign@'>
+					<i class='fa-solid fa-question'></i>
+					<span class='right_button_text'>Redesign 2025</span>
+				</a></div></div><nav class='wcl-tabbar' aria-label='App tabs'>
+							<ul class='wcl-tabs' role='tablist'>
+            <li class='wcl-tab-item' role='presentation'>
+                <a class='wcl-tab-link active' href="https://aspredicted.org/index.php" role='tab' aria-selected='true'>
+                    <img class='wcl-tab-logo'
+                         src='/images/credlab/ap.svg'
+                         alt=''
+                         aria-hidden='true'>
+                    <span class='wcl-tab-texts'>
+                        <span class='wcl-tab-title'>AsPredicted</span>
+                        <span class='wcl-tab-subtitle'>Pre-registrations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    </span>
+                </a>
+            </li>
+            <li class='wcl-tab-item' role='presentation'>
+                <a
+                    class='wcl-tab-link '
+                    href='http://ascollected.org/index.php'
+                    role='tab'
+                    aria-selected='false'
+                >
+                    <img class='wcl-tab-logo'
+                         src='/images/credlab/ac.svg'
+                         alt=''
+                         aria-hidden='true'>
+                    <span class='wcl-tab-texts'>
+                        <span class='wcl-tab-title'>AsCollected</span>
+                        <span class='wcl-tab-subtitle'>Results Provenance     </span>
+                    </span>
+                </a>
+            </li>
+            <li class='wcl-tab-item' role='presentation'>
+                <a
+                    class='wcl-tab-link '
+                    href='https://researchbox.org/index.php'
+                    role='tab'
+                    aria-selected='false'
+                >
+                    <img class='wcl-tab-logo'
+                         src='/images/credlab/rb.svg'
+                         alt=''
+                         aria-hidden='true'>
+                    <span class='wcl-tab-texts'>
+                        <span class='wcl-tab-title'>ResearchBox</span>
+                        <span class='wcl-tab-subtitle'>Data | Code | Materials</span>
+                    </span>
+                </a>
+            </li></ul>
+						</nav>
+						</div><div style='height: 40px;'></div>	<title> #276,220 | AsPredicted </title><script src='https://aspredicted.org/js/shared/main.js?version_date=1774453500' type='text/javascript'></script><script>set_java_cookie('visit:276220','1','30');</script><div class='container' style='width:900px'><script src='https://aspredicted.org/js/see_one.js?version_date=1774453500' type='text/javascript'></script><h3 style='text-align:center'><B>'<i>Creative Direction, Gemini Replication (March, 2026)</i>'<BR></B><div style='margin-top:6px'><a href='download_pdf.php?a=-QbO3LvLc1fVl4lK239uJZNfbCNOLdpvYfUcOx4ypjs&t=dEGf_aX77ET41UVOupIcInwiQn4CfoZUqQTrj5dvZuM'>
+						<button class='btn btn_blue btn-sm'>Download PDF</button>
+				   </a></div></h3><HR><div class='row'><div class='col-md-9' style='text-align:left!important;'><div style='margin-bottom:4px'><b>AsPredicted</b> #: 276,220</div><B>Author(s)</B><BR>This pre-registration is currently anonymous to enable blind peer-review.<BR>It has one author.<BR></div><div class='col-md-3' style='text-align:right;'><B>Pre-registered on</b><BR><span style='font-size:85%'>2026/03/01 08:21 (PT)</span></div></div><HR><B>1) Have any data been collected for this study already?</B><BR>No, no data have been collected for this study yet.<BR><BR><B>2) What's the main question being asked or hypothesis being tested in this study?</B><BR>  People who exhibit more Creative Direction (CD)---actively shaping the co-creative process through goal-setting, contributing original content, and evaluating AI suggestions---will produce more creative products when collaborating with Google Gemini (H1). This association will hold after controlling for interaction quantity (H2). Higher-CD outputs will also be more diverse across participants, i.e., less homogenized (H3).<BR><BR><B>3) Describe the key dependent variable(s) specifying how they will be measured.</B><BR>  Product creativity: Each written product is scored independently by three LLMs on a 10--50 scale for creativity (defined as originality and effectiveness). The dependent variable is the mean of three ratings. No model family appears on both the process and product scoring sides.<br />
+<br />
+Process creativity (creative direction): Each chat transcript is scored for CD by three LLMs on a 1--5 scale capturing the degree to which the participant actively shaped the creative output through direction-setting, contributing original material, and evaluative refinement, versus delegating the creative work to the AI. The predictor variable is the mean of three ratings.<br />
+<br />
+Homogenization: Mean pairwise cosine similarity of sentence-transformer embeddings across all products within each task, compared between high-CD and low-CD groups.<BR><BR><B>4) How many and which conditions will participants be assigned to?</B><BR>  No between-subject conditions. Each participant completes three writing tasks in randomized order with a Google Gemini chat assistant: (1) a social media post about a recent personal experience, (2) a business pitch for a product or crowdfunding idea, and (3) a job interview response highlighting a personal strength. Copy-paste from the chat into the response field is permitted and logged.<BR><BR><B>5) Specify exactly which analyses you will conduct to examine the main question/hypothesis.</B><BR>  H1 (CD -&gt; creativity): Person-level Pearson correlation between mean CD (averaged across 3 tasks) and mean creativity (averaged across 3 tasks).<br />
+<br />
+H2 (discriminant validity): (a) Partial correlation of mean CD with mean creativity, controlling for mean number of conversational turns. (b) Partial correlation of mean turns with mean creativity, controlling for mean CD. We predict (a) remains significant and (b) is non-significant.<br />
+<br />
+H3 (homogenization): For each task, compute each participant&#039;s mean cosine similarity to all other participants&#039; products (using sentence-transformer embeddings). Compare mean similarity between participants above vs. below the sample median CD using a Welch&#039;s t-test. We predict high-CD products are less similar (lower pairwise similarity) than low-CD products. Effect sizes reported as Cohen&#039;s d.<BR><BR><B>6) Describe exactly how outliers will be defined and handled, and your precise rule(s) for excluding observations.</B><BR>  Exclude individual task observations where the participant sent zero messages to the AI from CD analyses, as CD is scored from the chat transcript and requires at least one exchange. Exclude participants with no AI engagement on any task.<BR><BR><B>7) How many observations will be collected or what will determine sample size?<BR><font size='2'> No need to justify decision, but be precise about <u>exactly</u> how the number will be determined.</font></B><BR>  We conducted a simulation-based power analysis using parameter estimates from the same three tasks in Sample 2: person-level r(CD, creativity) = .31 and homogenization d = .77 (high- vs. low-CD median split on participant-level mean pairwise cosine similarity). Each simulation generated person-level CD and creativity scores with matched variance components, computed the test statistics for H1--H3, and recorded significance at alpha = .05. Across 5,000 simulations, N = 125 provides &gt;= 89% power for H1, &gt;= 89% for H2, and &gt;= 98% for H3. In Sample 2, 14% of participants did not engage the AI on any task and were excluded from CD analyses; applying this rate, we will recruit 165 participants via Prolific to yield an expected analytic sample of approximately 140.<BR><BR><B>8) Anything else you would like to pre-register? <BR><font size='2'>(e.g., secondary analyses, variables collected for exploratory purposes, unusual analyses planned?)</font></B><BR>  Exploratory measures not part of confirmatory tests: (a) MAILS-short (10 items), a validated measure of AI literacy; we will examine whether AI literacy predicts CD or moderates the CD--creativity association. (b) Copy-paste events from the AI chat into the response field are logged and will be reported descriptively. (c) Three post-task items (7-point Likert) corresponding to the three facets of CD: &quot;I set the creative goals and direction for this task,&quot; &quot;I contributed my own original ideas and content,&quot; and &quot;I critically evaluated and refined the AI&#039;s suggestions.&quot; These will be averaged into a self-report CD composite and correlated with behaviorally-scored CD for convergent validity. (d) All written products will be submitted to the GPTZero AI detection API to examine whether CD is negatively associated with AI detection probability.<BR><BR><div style='text-align:right;font-size:70%;color:gray;'>Version of AsPredicted Questions: 2.00</div></div><center><div id='footer' style='margin-bottom:30px;' ><hr><a href='http://credlab.wharton.upenn.edu' target='_blank'><img src='https://aspredicted.org/images/CredLab Logo 2020_transparent.svg' width='165'></a><BR><BR><span style='font-size:small;'><a href='mailto:support@aspredicted.org?subject=I would like to report a bug'>Report a bug</a>  &nbsp; &nbsp; | &nbsp;&nbsp;<a href='mailto:support@aspredicted.org?subject=I have a suggestion for ResearchBox'>Make a suggestion</a>  &nbsp; &nbsp; | &nbsp;&nbsp;<a href='https://aspredicted.org/terms@'>Terms of use</a>       &nbsp; &nbsp; | &nbsp;&nbsp;<a href='https://aspredicted.org/help'>Help</a>       &nbsp; &nbsp; | &nbsp;&nbsp;<a href='https://aspredicted.org/about@'>About</a><BR><BR></center></div></div><script src='https://aspredicted.org/js/footer.js?version_date=1727788481' type='text/javascript'></script><script src='https://aspredicted.org/js/shared/main.js?version_date=1774453500' type='text/javascript'></script><script>set_java_cookie('last_page','/wv4yv5.pdf','0.041666666666667');</script>	
+	<script>reset_footer();</script>
+
+
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"5d545bef8f4d42f7b2eb9b28c72853e8","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
